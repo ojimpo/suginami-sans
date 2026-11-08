@@ -12,4 +12,4 @@
 
 2026-11-08、フォントのバイナリを維持したまま見本を更新。見出し・リードと187語の3段落、本文サイズ・行間の比較、自由入力、通常y／ss01、カーニング、形式切替、反転、未収録警告、リセットを整備しました。生成ソースはscripts/specimen/、画像・HTMLはproofs/です。
 
-GitHub Release v0.105へ、OTF／TTF・見本付きZIP・PNG・SHA256SUMSの5点を添付します。実行結果と配布後の確認はVALIDATION.mdとGITHUB_RELEASE.jsonへ記録します。Aboutにはfont/typeface/typography/opentype/truetype/fonttoolsのトピックを設定しました。
+GitHub Release [v0.105](https://github.com/ojimpo/suginami-sans/releases/tag/v0.105) を作成し、OTF／TTF・見本付きZIP・PNG・SHA256SUMSの5点を添付しました。対象コミットはce56bf21f3e506dd8e5e08765b8a78940d4d15f5。全添付の再ダウンロードでSHA-256一致を確認し、draft=false／prerelease=false／privateを再確認しました。実行結果と配布後の確認はVALIDATION.mdとGITHUB_RELEASE.jsonへ記録しています。Aboutにはfont/typeface/typography/opentype/truetype/fonttoolsのトピックを設定しました。
