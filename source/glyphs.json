@@ -1,0 +1,1951 @@
+{
+  "family": "Suginami Sans",
+  "style": "Extended Bold",
+  "version": "0.1-source",
+  "date": "2026-10-25",
+  "coordinate_system": {
+    "y_direction": "down",
+    "baseline": 204,
+    "x_height_top": 0,
+    "cap_height_top": -82,
+    "nominal_vertical_stem": 53,
+    "nominal_horizontal_stem": 42,
+    "rounded_overshoot": 6,
+    "proposed_upm": 1000,
+    "design_to_font_scale": 2.4475524475524475,
+    "font_y_formula": "(204 - y) * (700 / 286)"
+  },
+  "spacing_status": "Imported draft bearings: 18 design units each side. Current font spacing is in spacing-plan.json and the UFO.",
+  "glyphs": {
+    "a": {
+      "unicode": 97,
+      "paths": [
+        {
+          "d": "M16.0 60.0C24.0 16.0 65.0 -6.0 125.0 -6.0C203.0 -6.0 246.0 26.0 246.0 82.0V204.0H193.0V175.0C171.0 198.0 140.0 210.0 100.0 210.0C37.0 210.0 0.0 185.0 0.0 145.0C0.0 101.0 42.0 80.0 116.0 76.0L193.0 72.0V65.0C193.0 44.0 168.0 32.0 128.0 32.0C95.0 32.0 77.0 42.0 72.0 60.0H16.0ZM193.0 105.0 122.0 109.0C77.0 112.0 54.0 124.0 54.0 144.0C54.0 163.0 73.0 174.0 106.0 174.0C158.0 174.0 193.0 151.0 193.0 115.0V105.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "imported",
+      "bounds": [
+        0.0,
+        -6.0,
+        246.0,
+        210.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 282.0,
+      "font_origin_shift_x": 18.0
+    },
+    "b": {
+      "unicode": 98,
+      "paths": [
+        {
+          "d": "M0.0 -82.0H53.0V27.0C74.0 6.0 100.0 -6.0 131.0 -6.0C199.0 -6.0 242.0 39.0 242.0 102.0C242.0 165.0 199.0 210.0 131.0 210.0C100.0 210.0 74.0 199.0 53.0 179.0V204.0H0.0V-82.0ZM53.0 102.0C53.0 143.0 79.0 169.0 120.0 169.0C161.0 169.0 188.0 143.0 188.0 102.0C188.0 61.0 161.0 35.0 120.0 35.0C79.0 35.0 53.0 61.0 53.0 102.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -82.0,
+        242.0,
+        210.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 278.0,
+      "font_origin_shift_x": 18.0
+    },
+    "c": {
+      "unicode": 99,
+      "paths": [
+        {
+          "d": "M239.0 54.0 190.0 68.0C178.0 46.0 157.0 35.0 126.0 35.0C82.0 35.0 55.0 61.0 55.0 102.0C55.0 143.0 82.0 169.0 126.0 169.0C157.0 169.0 178.0 158.0 190.0 136.0L239.0 150.0C220.0 190.0 182.0 210.0 126.0 210.0C50.0 210.0 0.0 168.0 0.0 102.0C0.0 36.0 50.0 -6.0 126.0 -6.0C182.0 -6.0 220.0 14.0 239.0 54.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -6.0,
+        239.0,
+        210.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 275.0,
+      "font_origin_shift_x": 18.0
+    },
+    "d": {
+      "unicode": 100,
+      "paths": [
+        {
+          "d": "M242.0 -82.0H189.0V27.0C168.0 6.0 142.0 -6.0 111.0 -6.0C43.0 -6.0 0.0 39.0 0.0 102.0C0.0 165.0 43.0 210.0 111.0 210.0C142.0 210.0 168.0 199.0 189.0 179.0V204.0H242.0V-82.0ZM189.0 102.0C189.0 143.0 163.0 169.0 122.0 169.0C81.0 169.0 54.0 143.0 54.0 102.0C54.0 61.0 81.0 35.0 122.0 35.0C163.0 35.0 189.0 61.0 189.0 102.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -82.0,
+        242.0,
+        210.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 278.0,
+      "font_origin_shift_x": 18.0
+    },
+    "e": {
+      "unicode": 101,
+      "paths": [
+        {
+          "d": "M240.0 118.0H56.0C62.0 152.0 88.0 171.0 128.0 171.0C159.0 171.0 181.0 162.0 193.0 139.0L236.0 150.0C218.0 190.0 181.0 210.0 127.0 210.0C50.0 210.0 0.0 168.0 0.0 102.0C0.0 37.0 49.0 -6.0 123.0 -6.0C196.0 -6.0 240.0 36.0 240.0 100.0V118.0ZM57.0 82.0H185.0C179.0 51.0 157.0 34.0 123.0 34.0C89.0 34.0 64.0 52.0 57.0 82.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "imported",
+      "bounds": [
+        0.0,
+        -6.0,
+        240.0,
+        210.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 276.0,
+      "font_origin_shift_x": 18.0
+    },
+    "f": {
+      "unicode": 102,
+      "paths": [
+        {
+          "d": "M34.0 204.0V42.0H0.0V0.0H34.0V-14.0C34.0 -63.0 61.0 -88.0 111.0 -88.0C126.0 -88.0 139.0 -86.0 151.0 -82.0V-42.0C142.0 -45.0 132.0 -47.0 122.0 -47.0C99.0 -47.0 87.0 -35.0 87.0 -11.0V0.0H151.0V42.0H87.0V204.0H34.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -88.0,
+        151.0,
+        204.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 187.0,
+      "font_origin_shift_x": 18.0
+    },
+    "g": {
+      "unicode": 103,
+      "paths": [
+        {
+          "d": "M189.0 0.0H242.0V193.0C242.0 254.0 201.0 290.0 125.0 290.0C79.0 290.0 42.0 278.0 17.0 257.0L43.0 224.0C62.0 240.0 87.0 249.0 122.0 249.0C168.0 249.0 189.0 230.0 189.0 197.0V176.0C168.0 197.0 141.0 208.0 110.0 208.0C42.0 208.0 0.0 164.0 0.0 101.0C0.0 38.0 42.0 -6.0 110.0 -6.0C141.0 -6.0 168.0 6.0 189.0 27.0V0.0ZM54.0 101.0C54.0 142.0 81.0 168.0 122.0 168.0C163.0 168.0 189.0 142.0 189.0 101.0C189.0 60.0 163.0 34.0 122.0 34.0C81.0 34.0 54.0 60.0 54.0 101.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -6.0,
+        242.0,
+        290.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 278.0,
+      "font_origin_shift_x": 18.0
+    },
+    "h": {
+      "unicode": 104,
+      "paths": [
+        {
+          "d": "M0.0 -82.0H53.0V29.0C74.0 6.0 99.0 -6.0 132.0 -6.0C194.0 -6.0 230.0 30.0 230.0 94.0V204.0H177.0V102.0C177.0 58.0 159.0 35.0 122.0 35.0C81.0 35.0 53.0 63.0 53.0 106.0V204.0H0.0V-82.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -82.0,
+        230.0,
+        204.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 266.0,
+      "font_origin_shift_x": 18.0
+    },
+    "i": {
+      "unicode": 105,
+      "paths": [
+        {
+          "d": "M0.0 -76.0H53.0V-29.0H0.0V-76.0ZM0.0 0.0H53.0V204.0H0.0V0.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -76.0,
+        53.0,
+        204.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 89.0,
+      "font_origin_shift_x": 18.0
+    },
+    "j": {
+      "unicode": 106,
+      "paths": [
+        {
+          "d": "M36.0 -76.0H89.0V-29.0H36.0V-76.0ZM36.0 0.0H89.0V210.0C89.0 263.0 66.0 286.0 22.0 286.0C9.0 286.0 -3.0 284.0 -13.0 280.0V240.0C-6.0 243.0 2.0 244.0 9.0 244.0C28.0 244.0 36.0 234.0 36.0 211.0V0.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        -13.0,
+        -76.0,
+        89.0,
+        286.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 138.0,
+      "font_origin_shift_x": 31.0
+    },
+    "k": {
+      "unicode": 107,
+      "paths": [
+        {
+          "d": "M0.0 -82.0H53.0V86.0L151.0 0.0H219.0L110.0 95.0L227.0 204.0H155.0L53.0 108.0V204.0H0.0V-82.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -82.0,
+        227.0,
+        204.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 263.0,
+      "font_origin_shift_x": 18.0
+    },
+    "l": {
+      "unicode": 108,
+      "paths": [
+        {
+          "d": "M0.0 -82.0H53.0V204.0H0.0V-82.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "imported",
+      "bounds": [
+        0.0,
+        -82.0,
+        53.0,
+        204.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 89.0,
+      "font_origin_shift_x": 18.0
+    },
+    "m": {
+      "unicode": 109,
+      "paths": [
+        {
+          "d": "M0.0 0.0H53.0V26.0C71.0 5.0 94.0 -6.0 121.0 -6.0C158.0 -6.0 183.0 9.0 196.0 36.0C217.0 8.0 245.0 -6.0 279.0 -6.0C334.0 -6.0 366.0 29.0 366.0 91.0V204.0H313.0V99.0C313.0 55.0 299.0 35.0 269.0 35.0C235.0 35.0 213.0 62.0 213.0 103.0V204.0H160.0V99.0C160.0 55.0 146.0 35.0 116.0 35.0C79.0 35.0 53.0 62.0 53.0 103.0V204.0H0.0V0.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -6.0,
+        366.0,
+        204.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 402.0,
+      "font_origin_shift_x": 18.0
+    },
+    "n": {
+      "unicode": 110,
+      "paths": [
+        {
+          "d": "M0.0 0.0H53.0V29.0C74.0 6.0 99.0 -6.0 132.0 -6.0C194.0 -6.0 230.0 30.0 230.0 94.0V204.0H177.0V102.0C177.0 58.0 159.0 35.0 122.0 35.0C81.0 35.0 53.0 63.0 53.0 106.0V204.0H0.0V0.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -6.0,
+        230.0,
+        204.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 266.0,
+      "font_origin_shift_x": 18.0
+    },
+    "o": {
+      "unicode": 111,
+      "paths": [
+        {
+          "d": "M125.0 -6.0C200.0 -6.0 250.0 36.0 250.0 102.0C250.0 168.0 200.0 210.0 125.0 210.0C50.0 210.0 0.0 168.0 0.0 102.0C0.0 36.0 50.0 -6.0 125.0 -6.0ZM125.0 35.0C82.0 35.0 55.0 61.0 55.0 102.0C55.0 143.0 82.0 169.0 125.0 169.0C168.0 169.0 195.0 143.0 195.0 102.0C195.0 61.0 168.0 35.0 125.0 35.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "imported",
+      "bounds": [
+        0.0,
+        -6.0,
+        250.0,
+        210.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 286.0,
+      "font_origin_shift_x": 18.0
+    },
+    "p": {
+      "unicode": 112,
+      "paths": [
+        {
+          "d": "M0.0 0.0H53.0V27.0C74.0 6.0 100.0 -6.0 131.0 -6.0C199.0 -6.0 242.0 39.0 242.0 102.0C242.0 165.0 199.0 210.0 131.0 210.0C100.0 210.0 74.0 199.0 53.0 179.0V282.0H0.0V0.0ZM53.0 102.0C53.0 143.0 79.0 169.0 120.0 169.0C161.0 169.0 188.0 143.0 188.0 102.0C188.0 61.0 161.0 35.0 120.0 35.0C79.0 35.0 53.0 61.0 53.0 102.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "imported",
+      "bounds": [
+        0.0,
+        -6.0,
+        242.0,
+        282.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 278.0,
+      "font_origin_shift_x": 18.0
+    },
+    "q": {
+      "unicode": 113,
+      "paths": [
+        {
+          "d": "M242.0 0.0H189.0V27.0C168.0 6.0 142.0 -6.0 111.0 -6.0C43.0 -6.0 0.0 39.0 0.0 102.0C0.0 165.0 43.0 210.0 111.0 210.0C142.0 210.0 168.0 199.0 189.0 179.0V282.0H242.0V0.0ZM189.0 102.0C189.0 143.0 163.0 169.0 122.0 169.0C81.0 169.0 54.0 143.0 54.0 102.0C54.0 61.0 81.0 35.0 122.0 35.0C163.0 35.0 189.0 61.0 189.0 102.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -6.0,
+        242.0,
+        282.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 278.0,
+      "font_origin_shift_x": 18.0
+    },
+    "r": {
+      "unicode": 114,
+      "paths": [
+        {
+          "d": "M0.0 0.0H53.0V35.0C72.0 7.0 98.0 -6.0 132.0 -6.0C140.0 -6.0 147.0 -5.0 154.0 -3.0V46.0C144.0 43.0 134.0 42.0 123.0 42.0C78.0 42.0 53.0 69.0 53.0 117.0V204.0H0.0V0.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -6.0,
+        154.0,
+        204.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 190.0,
+      "font_origin_shift_x": 18.0
+    },
+    "s": {
+      "unicode": 115,
+      "paths": [
+        {
+          "d": "M220.0 51.0 169.0 59.0C165.0 40.0 144.0 29.0 113.0 29.0C81.0 29.0 63.0 38.0 63.0 52.0C63.0 66.0 81.0 72.0 123.0 78.0C196.0 88.0 226.0 105.0 226.0 143.0C226.0 186.0 184.0 210.0 115.0 210.0C49.0 210.0 9.0 188.0 0.0 147.0L52.0 138.0C58.0 162.0 80.0 175.0 116.0 175.0C152.0 175.0 173.0 165.0 173.0 150.0C173.0 135.0 155.0 129.0 111.0 123.0C40.0 113.0 10.0 96.0 10.0 59.0C10.0 17.0 50.0 -6.0 114.0 -6.0C174.0 -6.0 213.0 14.0 220.0 51.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -6.0,
+        226.0,
+        210.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 262.0,
+      "font_origin_shift_x": 18.0
+    },
+    "t": {
+      "unicode": 116,
+      "paths": [
+        {
+          "d": "M32.0 -56.0H85.0V0.0H151.0V42.0H85.0V129.0C85.0 156.0 97.0 167.0 123.0 167.0C133.0 167.0 142.0 166.0 151.0 164.0V204.0C140.0 207.0 128.0 208.0 114.0 208.0C57.0 208.0 32.0 183.0 32.0 135.0V42.0H0.0V0.0H32.0V-56.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "imported",
+      "bounds": [
+        0.0,
+        -56.0,
+        151.0,
+        208.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 187.0,
+      "font_origin_shift_x": 18.0
+    },
+    "u": {
+      "unicode": 117,
+      "paths": [
+        {
+          "d": "M0.0 0.0H53.0V102.0C53.0 146.0 71.0 169.0 108.0 169.0C149.0 169.0 177.0 141.0 177.0 98.0V0.0H230.0V204.0H177.0V175.0C156.0 198.0 131.0 210.0 98.0 210.0C36.0 210.0 0.0 174.0 0.0 110.0V0.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        0.0,
+        230.0,
+        210.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 266.0,
+      "font_origin_shift_x": 18.0
+    },
+    "v": {
+      "unicode": 118,
+      "paths": [
+        {
+          "d": "M0.0 0.0H58.0L124.0 151.0L190.0 0.0H248.0L151.0 204.0H97.0L0.0 0.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        0.0,
+        248.0,
+        204.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 284.0,
+      "font_origin_shift_x": 18.0
+    },
+    "w": {
+      "unicode": 119,
+      "paths": [
+        {
+          "d": "M0.0 0.0H56.0L103.0 151.0L155.0 0.0H211.0L263.0 151.0L310.0 0.0H366.0L292.0 204.0H234.0L183.0 59.0L132.0 204.0H74.0L0.0 0.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        0.0,
+        366.0,
+        204.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 402.0,
+      "font_origin_shift_x": 18.0
+    },
+    "x": {
+      "unicode": 120,
+      "paths": [
+        {
+          "d": "M0.0 0.0H65.0L125.0 66.0L185.0 0.0H250.0L158.0 100.0L254.0 204.0H189.0L125.0 134.0L61.0 204.0H-4.0L92.0 100.0L0.0 0.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        -4.0,
+        0.0,
+        254.0,
+        204.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 294.0,
+      "font_origin_shift_x": 22.0
+    },
+    "y": {
+      "unicode": 121,
+      "paths": [
+        {
+          "d": "M0.0 0.0H58.0L125.0 146.0L187.0 0.0H245.0L143.0 224.0C122.0 270.0 98.0 290.0 59.0 290.0C44.0 290.0 29.0 287.0 16.0 281.0L30.0 240.0C38.0 244.0 46.0 246.0 54.0 246.0C73.0 246.0 85.0 236.0 97.0 209.0L99.0 204.0L0.0 0.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        0.0,
+        245.0,
+        290.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 281.0,
+      "font_origin_shift_x": 18.0
+    },
+    "z": {
+      "unicode": 122,
+      "paths": [
+        {
+          "d": "M13.0 0.0H202.0V40.0L67.0 162.0H204.0V204.0H0.0V162.0L136.0 42.0H13.0V0.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "imported",
+      "bounds": [
+        0.0,
+        0.0,
+        204.0,
+        204.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 240.0,
+      "font_origin_shift_x": 18.0
+    },
+    "y.alt": {
+      "unicode": null,
+      "paths": [
+        {
+          "d": "M0.0 0.0H53.0V102.0C53.0 138.0 75.0 160.0 113.0 160.0C151.0 160.0 177.0 135.0 177.0 97.0V0.0H230.0V193.0C230.0 254.0 191.0 290.0 127.0 290.0C95.0 290.0 70.0 283.0 49.0 272.0L71.0 239.0C87.0 246.0 103.0 250.0 124.0 250.0C159.0 250.0 177.0 230.0 177.0 197.0V176.0C156.0 193.0 132.0 202.0 103.0 202.0C39.0 202.0 0.0 165.0 0.0 105.0V0.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "imported",
+      "bounds": [
+        0.0,
+        0.0,
+        230.0,
+        290.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 266.0,
+      "font_origin_shift_x": 18.0
+    },
+    "uni0041": {
+      "unicode": 65,
+      "paths": [
+        {
+          "d": "M0.0 204.0 112.0 -82.0H170.0L282.0 204.0H224.0L200.0 140.0H82.0L58.0 204.0H0.0ZM98.0 98.0H184.0L141.0 -20.0L98.0 98.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -82.0,
+        282.0,
+        204.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 318.0,
+      "font_origin_shift_x": 18.0
+    },
+    "uni0042": {
+      "unicode": 66,
+      "paths": [
+        {
+          "d": "M0.0 -82.0H135.0C204.0 -82.0 240.0 -57.0 240.0 -11.0C240.0 18.0 224.0 39.0 197.0 50.0C232.0 61.0 251.0 85.0 251.0 119.0C251.0 174.0 208.0 204.0 138.0 204.0H0.0V-82.0ZM53.0 -40.0V32.0H128.0C168.0 32.0 187.0 20.0 187.0 -4.0C187.0 -28.0 168.0 -40.0 128.0 -40.0H53.0ZM53.0 74.0V162.0H133.0C176.0 162.0 197.0 147.0 197.0 118.0C197.0 89.0 176.0 74.0 133.0 74.0H53.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -82.0,
+        251.0,
+        204.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 287.0,
+      "font_origin_shift_x": 18.0
+    },
+    "uni0043": {
+      "unicode": 67,
+      "paths": [
+        {
+          "d": "M281.0 -12.0 231.0 5.0C214.0 -28.0 187.0 -46.0 145.0 -46.0C89.0 -46.0 55.0 -5.0 55.0 61.0C55.0 127.0 89.0 168.0 145.0 168.0C187.0 168.0 214.0 150.0 231.0 117.0L281.0 134.0C257.0 184.0 211.0 210.0 145.0 210.0C56.0 210.0 0.0 154.0 0.0 61.0C0.0 -32.0 56.0 -88.0 145.0 -88.0C211.0 -88.0 257.0 -62.0 281.0 -12.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -88.0,
+        281.0,
+        210.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 317.0,
+      "font_origin_shift_x": 18.0
+    },
+    "uni0044": {
+      "unicode": 68,
+      "paths": [
+        {
+          "d": "M0.0 -82.0H111.0C211.0 -82.0 270.0 -29.0 270.0 61.0C270.0 151.0 211.0 204.0 111.0 204.0H0.0V-82.0ZM53.0 -40.0V162.0H108.0C177.0 162.0 215.0 126.0 215.0 61.0C215.0 -4.0 177.0 -40.0 108.0 -40.0H53.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -82.0,
+        270.0,
+        204.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 306.0,
+      "font_origin_shift_x": 18.0
+    },
+    "uni0045": {
+      "unicode": 69,
+      "paths": [
+        {
+          "d": "M0.0 -82.0H220.0V-40.0H53.0V36.0H201.0V78.0H53.0V162.0H225.0V204.0H0.0V-82.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -82.0,
+        225.0,
+        204.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 261.0,
+      "font_origin_shift_x": 18.0
+    },
+    "uni0046": {
+      "unicode": 70,
+      "paths": [
+        {
+          "d": "M0.0 -82.0H220.0V-40.0H53.0V40.0H199.0V82.0H53.0V204.0H0.0V-82.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -82.0,
+        220.0,
+        204.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 256.0,
+      "font_origin_shift_x": 18.0
+    },
+    "uni0047": {
+      "unicode": 71,
+      "paths": [
+        {
+          "d": "M280.0 -12.0 230.0 5.0C214.0 -29.0 186.0 -46.0 145.0 -46.0C89.0 -46.0 55.0 -5.0 55.0 61.0C55.0 127.0 89.0 168.0 145.0 168.0C186.0 168.0 214.0 153.0 232.0 128.0V88.0H143.0V46.0H285.0V151.0C252.0 190.0 207.0 210.0 145.0 210.0C56.0 210.0 0.0 154.0 0.0 61.0C0.0 -32.0 56.0 -88.0 145.0 -88.0C211.0 -88.0 257.0 -62.0 280.0 -12.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -88.0,
+        285.0,
+        210.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 321.0,
+      "font_origin_shift_x": 18.0
+    },
+    "uni0048": {
+      "unicode": 72,
+      "paths": [
+        {
+          "d": "M0.0 -82.0H53.0V36.0H198.0V-82.0H251.0V204.0H198.0V78.0H53.0V204.0H0.0V-82.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -82.0,
+        251.0,
+        204.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 287.0,
+      "font_origin_shift_x": 18.0
+    },
+    "uni0049": {
+      "unicode": 73,
+      "paths": [
+        {
+          "d": "M0.0 -82.0H53.0V204.0H0.0V-82.0Z",
+          "fill_rule": "nonzero"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -82.0,
+        53.0,
+        204.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 89.0,
+      "font_origin_shift_x": 18.0
+    },
+    "uni004A": {
+      "unicode": 74,
+      "paths": [
+        {
+          "d": "M157.0 -82.0H210.0V101.0C210.0 174.0 174.0 210.0 106.0 210.0C43.0 210.0 7.0 179.0 0.0 118.0L53.0 111.0C58.0 150.0 74.0 168.0 105.0 168.0C140.0 168.0 157.0 146.0 157.0 101.0V-82.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -82.0,
+        210.0,
+        210.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 246.0,
+      "font_origin_shift_x": 18.0
+    },
+    "uni004B": {
+      "unicode": 75,
+      "paths": [
+        {
+          "d": "M0.0 -82.0H53.0V44.0L186.0 -82.0H257.0L112.0 54.0L270.0 204.0H195.0L53.0 68.0V204.0H0.0V-82.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -82.0,
+        270.0,
+        204.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 306.0,
+      "font_origin_shift_x": 18.0
+    },
+    "uni004C": {
+      "unicode": 76,
+      "paths": [
+        {
+          "d": "M0.0 -82.0H53.0V162.0H216.0V204.0H0.0V-82.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -82.0,
+        216.0,
+        204.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 252.0,
+      "font_origin_shift_x": 18.0
+    },
+    "uni004D": {
+      "unicode": 77,
+      "paths": [
+        {
+          "d": "M0.0 204.0V-82.0H66.0L166.0 132.0L266.0 -82.0H332.0V204.0H279.0V5.0L190.0 204.0H142.0L53.0 5.0V204.0H0.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -82.0,
+        332.0,
+        204.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 368.0,
+      "font_origin_shift_x": 18.0
+    },
+    "uni004E": {
+      "unicode": 78,
+      "paths": [
+        {
+          "d": "M0.0 204.0V-82.0H59.0L210.0 114.0V-82.0H263.0V204.0H204.0L53.0 8.0V204.0H0.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -82.0,
+        263.0,
+        204.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 299.0,
+      "font_origin_shift_x": 18.0
+    },
+    "uni004F": {
+      "unicode": 79,
+      "paths": [
+        {
+          "d": "M145.0 -88.0C235.0 -88.0 290.0 -32.0 290.0 61.0C290.0 154.0 235.0 210.0 145.0 210.0C55.0 210.0 0.0 154.0 0.0 61.0C0.0 -32.0 55.0 -88.0 145.0 -88.0ZM145.0 -46.0C89.0 -46.0 55.0 -5.0 55.0 61.0C55.0 127.0 89.0 168.0 145.0 168.0C201.0 168.0 235.0 127.0 235.0 61.0C235.0 -5.0 201.0 -46.0 145.0 -46.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -88.0,
+        290.0,
+        210.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 326.0,
+      "font_origin_shift_x": 18.0
+    },
+    "uni0050": {
+      "unicode": 80,
+      "paths": [
+        {
+          "d": "M0.0 204.0V-82.0H132.0C207.0 -82.0 249.0 -49.0 249.0 9.0C249.0 67.0 207.0 100.0 132.0 100.0H53.0V204.0H0.0ZM53.0 -40.0V58.0H127.0C172.0 58.0 195.0 42.0 195.0 9.0C195.0 -24.0 172.0 -40.0 127.0 -40.0H53.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -82.0,
+        249.0,
+        204.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 285.0,
+      "font_origin_shift_x": 18.0
+    },
+    "uni0051": {
+      "unicode": 81,
+      "paths": [
+        {
+          "d": "M145.0 -88.0C235.0 -88.0 290.0 -32.0 290.0 61.0C290.0 154.0 235.0 210.0 145.0 210.0C55.0 210.0 0.0 154.0 0.0 61.0C0.0 -32.0 55.0 -88.0 145.0 -88.0ZM145.0 -46.0C89.0 -46.0 55.0 -5.0 55.0 61.0C55.0 127.0 89.0 168.0 145.0 168.0C201.0 168.0 235.0 127.0 235.0 61.0C235.0 -5.0 201.0 -46.0 145.0 -46.0Z",
+          "fill_rule": "evenodd"
+        },
+        {
+          "d": "M172.0 112.0 296.0 216.0 264.0 251.0 140.0 147.0 172.0 112.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -88.0,
+        296.0,
+        251.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 332.0,
+      "font_origin_shift_x": 18.0
+    },
+    "uni0052": {
+      "unicode": 82,
+      "paths": [
+        {
+          "d": "M0.0 204.0V-82.0H132.0C207.0 -82.0 249.0 -49.0 249.0 9.0C249.0 50.0 228.0 78.0 190.0 91.0L265.0 204.0H202.0L135.0 100.0H53.0V204.0H0.0ZM53.0 -40.0V58.0H127.0C172.0 58.0 195.0 42.0 195.0 9.0C195.0 -24.0 172.0 -40.0 127.0 -40.0H53.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -82.0,
+        265.0,
+        204.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 301.0,
+      "font_origin_shift_x": 18.0
+    },
+    "uni0053": {
+      "unicode": 83,
+      "paths": [
+        {
+          "d": "M249.0 -16.0 196.0 -7.0C190.0 -34.0 167.0 -48.0 128.0 -48.0C88.0 -48.0 66.0 -33.0 66.0 -9.0C66.0 14.0 88.0 24.0 139.0 35.0C222.0 52.0 258.0 75.0 258.0 124.0C258.0 179.0 210.0 210.0 131.0 210.0C52.0 210.0 9.0 181.0 0.0 125.0L54.0 116.0C62.0 153.0 87.0 171.0 132.0 171.0C176.0 171.0 203.0 155.0 203.0 128.0C203.0 103.0 180.0 93.0 127.0 82.0C45.0 65.0 12.0 42.0 12.0 -5.0C12.0 -58.0 55.0 -88.0 128.0 -88.0C198.0 -88.0 239.0 -63.0 249.0 -16.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -88.0,
+        258.0,
+        210.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 294.0,
+      "font_origin_shift_x": 18.0
+    },
+    "uni0054": {
+      "unicode": 84,
+      "paths": [
+        {
+          "d": "M0.0 -82.0H259.0V-40.0H156.0V204.0H103.0V-40.0H0.0V-82.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -82.0,
+        259.0,
+        204.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 295.0,
+      "font_origin_shift_x": 18.0
+    },
+    "uni0055": {
+      "unicode": 85,
+      "paths": [
+        {
+          "d": "M0.0 -82.0H53.0V91.0C53.0 142.0 77.0 168.0 126.0 168.0C175.0 168.0 199.0 142.0 199.0 91.0V-82.0H252.0V94.0C252.0 171.0 207.0 210.0 126.0 210.0C45.0 210.0 0.0 171.0 0.0 94.0V-82.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -82.0,
+        252.0,
+        210.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 288.0,
+      "font_origin_shift_x": 18.0
+    },
+    "uni0056": {
+      "unicode": 86,
+      "paths": [
+        {
+          "d": "M0.0 -82.0H58.0L144.0 139.0L230.0 -82.0H288.0L174.0 204.0H114.0L0.0 -82.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -82.0,
+        288.0,
+        204.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 324.0,
+      "font_origin_shift_x": 18.0
+    },
+    "uni0057": {
+      "unicode": 87,
+      "paths": [
+        {
+          "d": "M0.0 -82.0H57.0L113.0 137.0L177.0 -82.0H235.0L299.0 137.0L355.0 -82.0H412.0L331.0 204.0H270.0L206.0 -8.0L142.0 204.0H81.0L0.0 -82.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -82.0,
+        412.0,
+        204.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 448.0,
+      "font_origin_shift_x": 18.0
+    },
+    "uni0058": {
+      "unicode": 88,
+      "paths": [
+        {
+          "d": "M0.0 -82.0H66.0L143.0 20.0L220.0 -82.0H286.0L176.0 59.0L290.0 204.0H223.0L143.0 99.0L63.0 204.0H-4.0L110.0 59.0L0.0 -82.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        -4.0,
+        -82.0,
+        290.0,
+        204.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 330.0,
+      "font_origin_shift_x": 22.0
+    },
+    "uni0059": {
+      "unicode": 89,
+      "paths": [
+        {
+          "d": "M0.0 -82.0H63.0L143.0 39.0L223.0 -82.0H286.0L169.0 89.0V204.0H116.0V89.0L0.0 -82.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -82.0,
+        286.0,
+        204.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 322.0,
+      "font_origin_shift_x": 18.0
+    },
+    "uni005A": {
+      "unicode": 90,
+      "paths": [
+        {
+          "d": "M0.0 -82.0H251.0V-41.0L64.0 162.0H255.0V204.0H-4.0V163.0L184.0 -40.0H0.0V-82.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        -4.0,
+        -82.0,
+        255.0,
+        204.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 295.0,
+      "font_origin_shift_x": 22.0
+    },
+    "uni0030": {
+      "unicode": 48,
+      "paths": [
+        {
+          "d": "M120.0 -88.0C197.0 -88.0 240.0 -34.0 240.0 61.0C240.0 156.0 197.0 210.0 120.0 210.0C43.0 210.0 0.0 156.0 0.0 61.0C0.0 -34.0 43.0 -88.0 120.0 -88.0ZM120.0 -46.0C76.0 -46.0 53.0 -8.0 53.0 61.0C53.0 130.0 76.0 168.0 120.0 168.0C164.0 168.0 187.0 130.0 187.0 61.0C187.0 -8.0 164.0 -46.0 120.0 -46.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -88.0,
+        240.0,
+        210.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 276.0,
+      "font_origin_shift_x": 18.0
+    },
+    "uni0031": {
+      "unicode": 49,
+      "paths": [
+        {
+          "d": "M27.0 -27.0 107.0 -82.0H155.0V162.0H215.0V204.0H32.0V162.0H102.0V-25.0L50.0 9.0L27.0 -27.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        27.0,
+        -82.0,
+        215.0,
+        204.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 224.0,
+      "font_origin_shift_x": -9.0
+    },
+    "uni0032": {
+      "unicode": 50,
+      "paths": [
+        {
+          "d": "M5.0 -13.0C15.0 -61.0 55.0 -88.0 119.0 -88.0C189.0 -88.0 229.0 -58.0 229.0 -7.0C229.0 33.0 203.0 60.0 157.0 93.0L61.0 162.0H234.0V204.0H0.0V163.0L124.0 71.0C160.0 44.0 175.0 25.0 175.0 1.0C175.0 -29.0 155.0 -46.0 119.0 -46.0C85.0 -46.0 65.0 -31.0 58.0 -3.0L5.0 -13.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -88.0,
+        234.0,
+        204.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 270.0,
+      "font_origin_shift_x": 18.0
+    },
+    "uni0033": {
+      "unicode": 51,
+      "paths": [
+        {
+          "d": "M111.0 -89.0C85.565243 -89.0 63.244827 -85.350699 44.316406 -75.802734C25.387985 -66.25477000000001 10.416950999999997 -49.538388 4.078125 -29.113281L49.921875 -14.886719000000001C52.58304 -23.461583 56.612043 -28.245244 65.933594 -32.947266C75.255145 -37.649287 90.434803 -41.0 111.0 -41.0C134.59257 -41.0 152.66381 -35.671671 163.04687 -28.832031C173.42994 -21.992391 177.0 -15.716206 177.0 -5.0C177.0 7.0135015 173.66335 13.052014 165.51953 19.048828C157.37571 25.045642 142.47998 30.0 121.0 30.0H92.0V78.0H121.0C146.5517 78.0 163.90996 83.73644 173.50195 90.8125C183.09395 97.88856 187.0 105.40001 187.0 119.0C187.0 134.09089 182.26284 142.12355 171.2207 149.76172C160.17856 157.39989 141.13155 163.0 116.0 163.0C93.384638 163.0 76.030885 158.1309 64.382812 151.01758C52.73474 143.90425 46.286771 135.19396 43.283203 123.17969L-3.2832031 134.82031C2.7132198 158.806 18.265292 179.09577 39.367187 191.98242C60.469083 204.86908 86.615414 211.0 116.0 211.0C147.86839 211.0 176.32147 204.60009 198.5293 189.23828C220.73712 173.87648 235.0 147.90906 235.0 119.0C235.0 92.600026 222.90602 67.611417 201.99805 52.1875C201.72878 51.988864 201.42969 51.82858 201.1582 51.632812C216.17225 37.264633 225.0 16.716649 225.0 -5.0C225.0 -31.283757 210.57003 -55.007629 189.45312 -68.917969C168.33622 -82.828308 141.40738 -89.0 111.0 -89.0Z",
+          "fill_rule": "nonzero"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        -3.2832031,
+        -89.0,
+        235.0,
+        211.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 274.28320310000004,
+      "font_origin_shift_x": 21.2832031
+    },
+    "uni0034": {
+      "unicode": 52,
+      "paths": [
+        {
+          "d": "M144.0 -82.0H203.0V97.0H240.0V139.0H203.0V204.0H150.0V139.0H0.0V96.0L144.0 -82.0ZM150.0 -15.0 62.0 97.0H150.0V-15.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -82.0,
+        240.0,
+        204.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 276.0,
+      "font_origin_shift_x": 18.0
+    },
+    "uni0035": {
+      "unicode": 53,
+      "paths": [
+        {
+          "d": "M25.0 -82.0H221.0V-40.0H70.0L61.0 26.0C79.0 18.0 99.0 14.0 121.0 14.0C193.0 14.0 233.0 50.0 233.0 111.0C233.0 174.0 189.0 210.0 116.0 210.0C52.0 210.0 13.0 186.0 0.0 141.0L52.0 129.0C61.0 156.0 82.0 169.0 116.0 169.0C156.0 169.0 179.0 148.0 179.0 112.0C179.0 75.0 156.0 54.0 116.0 54.0C91.0 54.0 70.0 62.0 54.0 77.0L10.0 67.0L25.0 -82.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -82.0,
+        233.0,
+        210.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 269.0,
+      "font_origin_shift_x": 18.0
+    },
+    "uni0036": {
+      "unicode": 54,
+      "paths": [
+        {
+          "d": "M227.0 -28.0 178.0 -9.0C167.0 -34.0 149.0 -46.0 123.0 -46.0C76.0 -46.0 54.0 -9.0 53.0 57.0C73.0 35.0 99.0 24.0 131.0 24.0C198.0 24.0 238.0 59.0 238.0 116.0C238.0 175.0 194.0 210.0 124.0 210.0C44.0 210.0 0.0 159.0 0.0 63.0C0.0 -35.0 43.0 -88.0 124.0 -88.0C176.0 -88.0 210.0 -68.0 227.0 -28.0ZM123.0 65.0C81.0 65.0 57.0 84.0 57.0 116.0C57.0 148.0 81.0 169.0 123.0 169.0C163.0 169.0 185.0 149.0 185.0 116.0C185.0 84.0 163.0 65.0 123.0 65.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -88.0,
+        238.0,
+        210.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 274.0,
+      "font_origin_shift_x": 18.0
+    },
+    "uni0037": {
+      "unicode": 55,
+      "paths": [
+        {
+          "d": "M0.0 -82.0H240.0V-41.0L105.0 204.0H45.0L184.0 -40.0H0.0V-82.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -82.0,
+        240.0,
+        204.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 276.0,
+      "font_origin_shift_x": 18.0
+    },
+    "uni0038": {
+      "unicode": 56,
+      "paths": [
+        {
+          "d": "M120.0 -88.0C187.0 -88.0 226.0 -61.0 226.0 -17.0C226.0 16.0 208.0 38.0 178.0 49.0C217.0 61.0 240.0 85.0 240.0 123.0C240.0 179.0 196.0 210.0 120.0 210.0C44.0 210.0 0.0 179.0 0.0 123.0C0.0 85.0 23.0 61.0 62.0 49.0C32.0 38.0 14.0 16.0 14.0 -17.0C14.0 -61.0 53.0 -88.0 120.0 -88.0ZM120.0 -49.0C86.0 -49.0 67.0 -36.0 67.0 -12.0C67.0 12.0 86.0 26.0 120.0 26.0C154.0 26.0 173.0 12.0 173.0 -12.0C173.0 -36.0 154.0 -49.0 120.0 -49.0ZM120.0 66.0C77.0 66.0 54.0 85.0 54.0 119.0C54.0 153.0 77.0 171.0 120.0 171.0C163.0 171.0 186.0 153.0 186.0 119.0C186.0 85.0 163.0 66.0 120.0 66.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -88.0,
+        240.0,
+        210.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 276.0,
+      "font_origin_shift_x": 18.0
+    },
+    "uni0039": {
+      "unicode": 57,
+      "paths": [
+        {
+          "d": "M13.0 150.0 62.0 131.0C73.0 156.0 91.0 168.0 117.0 168.0C164.0 168.0 186.0 131.0 187.0 65.0C167.0 87.0 141.0 98.0 109.0 98.0C42.0 98.0 2.0 63.0 2.0 6.0C2.0 -53.0 46.0 -88.0 116.0 -88.0C196.0 -88.0 240.0 -37.0 240.0 59.0C240.0 157.0 197.0 210.0 116.0 210.0C64.0 210.0 30.0 190.0 13.0 150.0ZM117.0 57.0C159.0 57.0 183.0 38.0 183.0 6.0C183.0 -26.0 159.0 -47.0 117.0 -47.0C77.0 -47.0 55.0 -27.0 55.0 6.0C55.0 38.0 77.0 57.0 117.0 57.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        2.0,
+        -88.0,
+        240.0,
+        210.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 274.0,
+      "font_origin_shift_x": 16.0
+    },
+    "uni002E": {
+      "unicode": 46,
+      "paths": [
+        {
+          "d": "M0.0 151.0H53.0V204.0H0.0V151.0Z",
+          "fill_rule": "nonzero"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        151.0,
+        53.0,
+        204.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 89.0,
+      "font_origin_shift_x": 18.0
+    },
+    "uni002C": {
+      "unicode": 44,
+      "paths": [
+        {
+          "d": "M13.0 151.0H66.0V199.0L24.0 258.0H-5.0L20.0 204.0H13.0V151.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        -5.0,
+        151.0,
+        66.0,
+        258.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 107.0,
+      "font_origin_shift_x": 23.0
+    },
+    "uni003A": {
+      "unicode": 58,
+      "paths": [
+        {
+          "d": "M0.0 0.0H53.0V53.0H0.0V0.0Z",
+          "fill_rule": "nonzero"
+        },
+        {
+          "d": "M0.0 151.0H53.0V204.0H0.0V151.0Z",
+          "fill_rule": "nonzero"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        0.0,
+        53.0,
+        204.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 89.0,
+      "font_origin_shift_x": 18.0
+    },
+    "uni003B": {
+      "unicode": 59,
+      "paths": [
+        {
+          "d": "M13.0 0.0H66.0V53.0H13.0V0.0Z",
+          "fill_rule": "nonzero"
+        },
+        {
+          "d": "M13.0 151.0H66.0V199.0L24.0 258.0H-5.0L20.0 204.0H13.0V151.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        -5.0,
+        0.0,
+        66.0,
+        258.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 107.0,
+      "font_origin_shift_x": 23.0
+    },
+    "uni0021": {
+      "unicode": 33,
+      "paths": [
+        {
+          "d": "M0.0 -82.0H57.0L52.0 112.0H5.0L0.0 -82.0Z",
+          "fill_rule": "evenodd"
+        },
+        {
+          "d": "M2.0 151.0H55.0V204.0H2.0V151.0Z",
+          "fill_rule": "nonzero"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -82.0,
+        57.0,
+        204.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 93.0,
+      "font_origin_shift_x": 18.0
+    },
+    "uni003F": {
+      "unicode": 63,
+      "paths": [
+        {
+          "d": "M107.0 -88.0C81.655581 -88.0 58.420658 -83.753649 38.927734 -72.566406C19.434811 -61.379163 4.522244 -41.72631 0.36523438 -18.169922L47.634766 -9.8300781C49.47775 -20.273656 53.565218 -25.620853 62.822266 -30.933594C72.079313 -36.246334 87.344464 -40.0 107.0 -40.0C129.049 -40.0 144.82898 -34.97796 153.49219 -28.998047C162.1554 -23.018133 165.0 -17.705873 165.0 -8.0C165.0 -1.3695718000000001 163.62455 2.7002536 159.36328 8.4335938C155.10201 14.166934000000001 147.24319 21.114818 135.21289000000002 28.689453L135.45898000000003 28.537109C118.25638 39.080642 104.414 50.415541 94.796875 65.103516C85.179749 79.79149 81.0 97.189673 81.0 115.0H129.0C129.0 103.81036 130.82026 97.708489 134.95312 91.396484C139.08599 85.08448 146.74365 77.91933900000001 160.54102 69.462891C160.62335542619167 69.41260470481635 160.70538691714663 69.36182244849533 160.78711 69.310547C175.75678 59.885199 188.398 49.833048 197.88672 37.066406C207.37544 24.299765 213.0 8.3695488 213.0 -8.0C213.0 -32.294093 200.34458 -54.981886 180.75781 -68.501953C161.17105 -82.02202 135.95095 -88.0 107.0 -88.0Z",
+          "fill_rule": "nonzero"
+        },
+        {
+          "d": "M79.0 151.0H132.0V204.0H79.0V151.0Z",
+          "fill_rule": "nonzero"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.36523438,
+        -88.0,
+        213.0,
+        204.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 248.63476562,
+      "font_origin_shift_x": 17.63476562
+    },
+    "uni002D": {
+      "unicode": 45,
+      "paths": [
+        {
+          "d": "M0.0 70.0H126.0V112.0H0.0V70.0Z",
+          "fill_rule": "nonzero"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        70.0,
+        126.0,
+        112.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 162.0,
+      "font_origin_shift_x": 18.0
+    },
+    "uni2013": {
+      "unicode": 8211,
+      "paths": [
+        {
+          "d": "M0.0 70.0H230.0V112.0H0.0V70.0Z",
+          "fill_rule": "nonzero"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        70.0,
+        230.0,
+        112.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 266.0,
+      "font_origin_shift_x": 18.0
+    },
+    "uni2014": {
+      "unicode": 8212,
+      "paths": [
+        {
+          "d": "M0.0 70.0H366.0V112.0H0.0V70.0Z",
+          "fill_rule": "nonzero"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        70.0,
+        366.0,
+        112.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 402.0,
+      "font_origin_shift_x": 18.0
+    },
+    "uni005F": {
+      "unicode": 95,
+      "paths": [
+        {
+          "d": "M0.0 236.0H230.0V278.0H0.0V236.0Z",
+          "fill_rule": "nonzero"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        236.0,
+        230.0,
+        278.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 266.0,
+      "font_origin_shift_x": 18.0
+    },
+    "uni002B": {
+      "unicode": 43,
+      "paths": [
+        {
+          "d": "M0.0 70.0H230.0V112.0H0.0V70.0Z",
+          "fill_rule": "nonzero"
+        },
+        {
+          "d": "M94.0 -24.0H136.0V206.0H94.0V-24.0Z",
+          "fill_rule": "nonzero"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -24.0,
+        230.0,
+        206.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 266.0,
+      "font_origin_shift_x": 18.0
+    },
+    "uni003D": {
+      "unicode": 61,
+      "paths": [
+        {
+          "d": "M0.0 28.0H230.0V70.0H0.0V28.0Z",
+          "fill_rule": "nonzero"
+        },
+        {
+          "d": "M0.0 112.0H230.0V154.0H0.0V112.0Z",
+          "fill_rule": "nonzero"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        28.0,
+        230.0,
+        154.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 266.0,
+      "font_origin_shift_x": 18.0
+    },
+    "uni002F": {
+      "unicode": 47,
+      "paths": [
+        {
+          "d": "M166.0 -100.0H216.0L50.0 250.0H0.0L166.0 -100.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -100.0,
+        216.0,
+        250.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 252.0,
+      "font_origin_shift_x": 18.0
+    },
+    "uni005C": {
+      "unicode": 92,
+      "paths": [
+        {
+          "d": "M0.0 -100.0H50.0L216.0 250.0H166.0L0.0 -100.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -100.0,
+        216.0,
+        250.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 252.0,
+      "font_origin_shift_x": 18.0
+    },
+    "uni0028": {
+      "unicode": 40,
+      "paths": [
+        {
+          "d": "M97.052734 -120.14258C40.040435 -67.353412 8.0 -6.6235873 8.0 62.0C8.0 130.62359 40.040435 191.35341 97.052734 244.14258L126.94727 211.85742C75.959673 164.64669 52.0 117.37629 52.0 62.0C52.0 6.6237113 75.959673 -40.646688 126.94727 -87.857422L97.052734 -120.14258Z",
+          "fill_rule": "nonzero"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        8.0,
+        -120.14258,
+        126.94727,
+        244.14258
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 154.94727,
+      "font_origin_shift_x": 10.0
+    },
+    "uni0029": {
+      "unicode": 41,
+      "paths": [
+        {
+          "d": "M42.947266 -120.14258 13.052734 -87.857422C64.040327 -40.646688 88.0 6.6237113 88.0 62.0C88.0 117.37629 64.040327 164.64669 13.052734 211.85742L42.947266 244.14257999999998C99.959565 191.35341 132.0 130.62359 132.0 62.0C132.0 -6.6235873 99.959565 -67.353412 42.947266 -120.14258Z",
+          "fill_rule": "nonzero"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        13.052734,
+        -120.14258,
+        132.0,
+        244.14257999999998
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 154.947266,
+      "font_origin_shift_x": 4.947266000000001
+    },
+    "uni005B": {
+      "unicode": 91,
+      "paths": [
+        {
+          "d": "M0.0 -104.0H121.0V-64.0H48.0V188.0H121.0V228.0H0.0V-104.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -104.0,
+        121.0,
+        228.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 157.0,
+      "font_origin_shift_x": 18.0
+    },
+    "uni005D": {
+      "unicode": 93,
+      "paths": [
+        {
+          "d": "M121.0 -104.0H0.0V-64.0H73.0V188.0H0.0V228.0H121.0V-104.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -104.0,
+        121.0,
+        228.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 157.0,
+      "font_origin_shift_x": 18.0
+    },
+    "uni007B": {
+      "unicode": 123,
+      "paths": [
+        {
+          "d": "M110.0 -104.0C93.666683 -104.0 78.094483 -99.690834 66.888672 -88.916016C55.68286 -78.141197 51.0 -62.611095 51.0 -47.0V13.0C51.0 25.059128 48.047221 31.783712 44.570312 35.541016C41.093404 39.29832 35.999989 42.0 25.0 42.0C14.064596299648848 42.154653828431144 5.280849783453678 51.06350275927882 5.280849783453677 62.00000000000001C5.280849783453677 72.93649724072118 14.064596299648846 81.84534617156885 24.999999999999996 82.0C35.999989 82.0 41.093404 84.70168 44.570312 88.458984C48.047221 92.216288 51.0 98.940872 51.0 111.0V171.0C51.0 186.6111 55.68286 202.1412 66.888672 212.91602C78.094483 223.69083 93.666683 228.0 110.0 228.0H136.0V188.0H110.0C100.33333999999999 188.0 96.40550400000001 185.80915 94.611328 184.08398C92.817153 182.35882 91.0 179.38888 91.0 171.0V111.0C91.0 92.389172 86.089005 74.928976 74.513672 62.0C86.089005 49.071024 91.0 31.610828 91.0 13.0V-47.0C91.0 -55.38888 92.817153 -58.358816 94.611328 -60.083984C96.405504 -61.809153 100.33334 -64.0 110.0 -64.0H136.0V-104.0H110.0Z",
+          "fill_rule": "nonzero"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        5.280849783453677,
+        -104.0,
+        136.0,
+        228.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 166.71915021654632,
+      "font_origin_shift_x": 12.719150216546323
+    },
+    "uni007D": {
+      "unicode": 125,
+      "paths": [
+        {
+          "d": "M45.0 -104.0C61.333316999999994 -104.0 76.905517 -99.690834 88.111328 -88.916016C99.31714 -78.141197 104.0 -62.611095 104.0 -47.0V13.0C104.0 25.059128 106.95277899999999 31.783712 110.429688 35.541016C113.90659600000001 39.29832 119.000011 42.0 130.0 42.0C140.93540370035115 42.154653828431144 149.71915021654632 51.06350275927882 149.71915021654632 62.00000000000001C149.71915021654632 72.93649724072118 140.93540370035115 81.84534617156885 130.0 82.0C119.000011 82.0 113.90659600000001 84.70168 110.429688 88.458984C106.95277899999999 92.216288 104.0 98.940872 104.0 111.0V171.0C104.0 186.6111 99.31714 202.1412 88.111328 212.91602C76.905517 223.69083 61.333316999999994 228.0 45.0 228.0H19.0V188.0H45.0C54.66666000000001 188.0 58.59449599999999 185.80915 60.388672 184.08398C62.182846999999995 182.35882 64.0 179.38888 64.0 171.0V111.0C64.0 92.389172 68.910995 74.928976 80.486328 62.0C68.910995 49.071024 64.0 31.610828 64.0 13.0V-47.0C64.0 -55.38888 62.182846999999995 -58.358816 60.388672 -60.083984C58.59449600000001 -61.809153 54.66665999999999 -64.0 45.0 -64.0H19.0V-104.0H45.0Z",
+          "fill_rule": "nonzero"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        19.0,
+        -104.0,
+        149.71915021654632,
+        228.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 166.71915021654632,
+      "font_origin_shift_x": -1.0
+    },
+    "uni0023": {
+      "unicode": 35,
+      "paths": [
+        {
+          "d": "M71.197266 -60.726562 60.068359 16.0H15.0V54.0H54.556641L48.03125 99.0H0.0V137.0H42.519531L33.197266 201.27344L70.802734 206.72656L80.916016 137.0H142.51953L133.19727 201.27344L170.80273 206.72656L180.91602 137.0H220.0V99.0H186.42773L192.95311999999998 54.0H235.0V16.0H198.46484L208.80273 -55.273437L171.19727 -60.726562L160.06836 16.0H98.464844L108.80273 -55.273437L71.197266 -60.726562ZM92.953125 54.0H154.55664000000002L148.03125000000003 99.0H86.427734L92.953125 54.0Z",
+          "fill_rule": "nonzero"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -60.726562,
+        235.0,
+        206.72656
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 271.0,
+      "font_origin_shift_x": 18.0
+    },
+    "uni0025": {
+      "unicode": 37,
+      "paths": [
+        {
+          "d": "M222.83789 -93.451172 6.8378906 192.54883 37.162109 215.45117 253.16211 -70.548828 222.83789 -93.451172Z",
+          "fill_rule": "nonzero"
+        },
+        {
+          "d": "M53.0 -82.0C37.628422 -82.0 24.056366 -73.820832 15.066406 -62.228516C6.076447 -50.6362 1.0 -35.464778 1.0 -19.0C1.0 -2.5352223 6.076447 12.6362 15.066406 24.228516C24.056366 35.820832 37.628422 44.0 53.0 44.0C68.371578 44.0 81.943634 35.820832 90.933594 24.228516C99.923553 12.6362 105.0 -2.5352223 105.0 -19.0C105.0 -35.464778 99.923553 -50.6362 90.933594 -62.228516C81.943634 -73.820832 68.371578 -82.0 53.0 -82.0ZM53.0 -54.0C58.615221 -54.0 64.043319 -51.210538 68.806641 -45.068359C73.569962 -38.926181 77.0 -29.597148 77.0 -19.0C77.0 -8.402852 73.569962 0.92618119 68.806641 7.0683594C64.043319 13.210538 58.615221 16.0 53.0 16.0C47.384779 16.0 41.956681 13.210538 37.193359 7.0683594C32.430038 0.92618119 29.0 -8.402852 29.0 -19.0C29.0 -29.597148 32.430038 -38.926181 37.193359 -45.068359C41.956681 -51.210538 47.384779 -54.0 53.0 -54.0Z",
+          "fill_rule": "nonzero"
+        },
+        {
+          "d": "M207.0 78.0C191.62842 78.0 178.05637 86.179168 169.06641 97.771484C160.07645 109.3638 155.0 124.53522 155.0 141.0C155.0 157.46478 160.07645 172.6362 169.06641 184.22852C178.05637 195.82083 191.62842 204.0 207.0 204.0C222.37158 204.0 235.94362999999998 195.82083 244.93359 184.22852C253.92355 172.6362 259.0 157.46478 259.0 141.0C259.0 124.53522 253.92355 109.3638 244.93359 97.771484C235.94363 86.179168 222.37158 78.0 207.0 78.0ZM207.0 106.0C212.61522 106.0 218.04332 108.78946 222.80664 114.93164C227.56996 121.07382 231.0 130.40285 231.0 141.0C231.0 151.59715 227.56996 160.92618 222.80664 167.06835999999998C218.04332 173.21054 212.61522 176.0 207.0 176.0C201.38478 176.0 195.95668 173.21054 191.19336 167.06836C186.43004 160.92618 183.0 151.59715 183.0 141.0C183.0 130.40285 186.43004 121.07382 191.19336 114.93164C195.95668 108.78946 201.38478 106.0 207.0 106.0Z",
+          "fill_rule": "nonzero"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        1.0,
+        -93.451172,
+        259.0,
+        215.45117
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 294.0,
+      "font_origin_shift_x": 17.0
+    },
+    "uni0026": {
+      "unicode": 38,
+      "paths": [
+        {
+          "d": "M104.0 -95.5C76.773124 -95.5 48.202954 -88.30322 31.707031 -64.402344C22.219664 -50.858674 19.276959 -32.118527 24.146484 -16.146484C29.033350000000002 -0.11756379999999922 39.331906000000004 13.566281 53.382812 27.617187L57.666016 31.925781C44.766671 39.597358 33.43972 47.774369 24.166016 57.746094C9.1072526 73.938312 0.5 95.630654 0.5 119.0C0.5 146.69377 12.856419 171.84597 33.300781 187.34960999999998C53.745144 202.85325 80.384645 209.5 110.0 209.5C145.81824 209.5 177.12862 196.73854 199.72656 174.7832L231.33594 206.57031L264.66406 173.42969L227.38086 135.93554999999998C234.75975000000003 120.73699999999998 239.97339000000002 103.94615999999998 243.13867000000002 86.10546899999997L196.86133 77.89453099999997C195.47652000000002 85.69983099999997 193.6022 92.94485499999998 191.37109 99.72460899999997L135.69336 43.734375C144.33878 38.59614 152.3066 33.119548 159.4082 26.773437C174.44254 13.338497 185.5 -6.2111329 185.5 -28.0C185.5 -46.72434 177.50711 -65.86095900000001 162.36328 -78.054687C147.21946 -90.248416 127.11536 -95.5 104.0 -95.5ZM104.0 -48.5C119.8846 -48.5 128.78056 -44.751568 132.88672 -41.445312C136.99287999999999 -38.139057 138.5 -35.275634000000004 138.5 -28.0C138.5 -19.788897 136.55744 -15.838476 128.0918 -8.2734375C122.25907000000001 -3.0612123999999996 112.95492 2.768687999999999 101.19336000000001 9.041015600000001L86.664062 -5.5703125C86.64846070938464 -5.585959524831161 86.63283736051571 -5.6015845403684095 86.61719199999999 -5.6171875C75.668119 -16.566256 70.466643 -25.382457 69.103516 -29.853516C67.740388 -34.324574999999996 67.767199 -34.001903999999996 70.199219 -37.447266C70.25505428759368 -37.52699943542095 70.31039368883845 -37.60707898075503 70.365234 -37.6875C75.879767 -45.708639 83.26391 -48.5 104.0 -48.5ZM92.037109 66.488281 166.58984 141.46094C152.65404 154.87466 135.12052 162.5 110.0 162.5C87.615407 162.5 71.254826 157.14673 61.699219 149.90039C52.143611 142.65405 47.5 134.30619 47.5 119.0C47.5 105.36938 50.392771 98.561663 58.583984 89.753906C65.147407 82.696463 76.375594 74.932036 92.037109 66.488281Z",
+          "fill_rule": "nonzero"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.5,
+        -95.5,
+        264.66406,
+        209.5
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 300.16406,
+      "font_origin_shift_x": 17.5
+    },
+    "uni0040": {
+      "unicode": 64,
+      "paths": [
+        {
+          "d": "M161.0 -66.5C115.48632 -66.5 77.15557 -51.990821 50.738281 -24.867187C24.320993 2.2564456 10.5 41.133767 10.5 87.0C10.5 133.61106 25.980984 171.51387 53.873047 196.85742C81.76511 222.20097 120.88436 234.5 166.0 234.5C208.17496 234.5 242.33616999999998 224.86899 269.04296999999997 207.06445L252.95702999999997 182.93554999999998C231.66388 197.13098 203.82496 205.5 166.0 205.5C126.11573 205.5 94.734841 194.79898 73.376953 175.39258C52.019065 155.98617 39.5 127.38885 39.5 87.0C39.5 46.866319 51.179054 16.243506 71.511719 -4.6328125C91.844384 -25.509131 121.51376 -37.5 161.0 -37.5C194.93015 -37.5 220.69611 -27.011758 238.43555 -9.0585938C256.17498 8.8945708 266.5 35.004538 266.5 69.0C266.5 91.724467 262.07786 109.80485 255.36328 120.83594C248.64871 131.86702 241.30881 136.5 229.0 136.5C222.68519 136.5 220.30363 135.04908 219.11523 133.66797C217.92684 132.28686 216.20774 128.85390999999998 217.37891 119.875C217.38933397353193 119.79565553997018 217.3991009748103 119.71622615209976 217.40821 119.63672000000001L222.40821 75.636719L230.39063 10.771484000000001L201.60937 7.2285156L201.125 11.160156C198.86123 9.0009325 196.46456 6.9913128 193.86719 5.2363281C181.58043 -3.0655382 166.49998 -6.5 150.0 -6.5C125.54764 -6.5 104.40571 2.8816412 90.636719 19.310547C76.867731 35.739453 70.5 58.029655 70.5 83.0C70.5 106.53172 76.714923 126.73295999999999 89.292969 141.24609C101.87101 155.75922 120.58826 163.5 141.0 163.5C160.5549 163.5 178.43999 156.80669 192.07227 144.71875C193.40477 147.54856 195.07572 150.18909 197.13477 152.58203C205.19636 161.95091 217.31483 165.5 229.0 165.5C250.69115 165.5 269.35131 153.63295 280.13671999999997 135.91406C290.92213 118.19518 295.5 95.275484 295.5 69.0C295.5 28.995536 282.82498 -5.3946128 259.06445 -29.441406C235.30393 -53.4882 201.06978 -66.5 161.0 -66.5ZM150.0 22.5C162.49999 22.5 171.41959 25.065551 177.63281 29.263672C183.84603 33.461793 188.20864 39.408891 190.99805 49.769531L196.55859 48.273437L193.60937 72.228516C193.60459354808606 72.27341609270974 193.6000268316101 72.31833824934375 193.59567 72.363281H193.59167000000002L193.52137000000002 72.978516C191.69105 94.063619 185.26209 109.58295 176.43555 119.46484C167.57782 129.38165 156.43858 134.5 141.0 134.5C127.41178 134.5 118.12897 130.24075 111.20703 122.25391C104.2851 114.26706 99.5 101.46824 99.5 83.0C99.5 62.97039 104.63229 47.760521 112.86328 37.939453C121.09427 28.118385 132.4524 22.5 150.0 22.5ZM222.44727 75.230469 222.40427 75.636719H222.40027C222.41237 75.49886 222.43537 75.36855 222.44717 75.230469H222.44727Z",
+          "fill_rule": "nonzero"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        10.5,
+        -66.5,
+        295.5,
+        234.5
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 321.0,
+      "font_origin_shift_x": 7.5
+    },
+    "uni002A": {
+      "unicode": 42,
+      "paths": [
+        {
+          "d": "M78.0 -82.0V-18.890625L17.498047 -41.025391L6.5019531 -10.974609L47.431641 4.0L6.5019531 18.974609L17.498047 49.025391L78.0 26.890625V90.0H110.0V26.890625L170.50195 49.025391L181.49805 18.974609L140.56836 4.0L181.49805 -10.974609L170.50195 -41.025391L110.0 -18.890625V-82.0H78.0Z",
+          "fill_rule": "nonzero"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        6.5019531,
+        -82.0,
+        181.49805,
+        90.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 210.9960969,
+      "font_origin_shift_x": 11.4980469
+    },
+    "uni0027": {
+      "unicode": 39,
+      "paths": [
+        {
+          "d": "M0.0 -82.0H44.0L34.0 -2.0H8.0L0.0 -82.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -82.0,
+        44.0,
+        -2.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 80.0,
+      "font_origin_shift_x": 18.0
+    },
+    "uni0022": {
+      "unicode": 34,
+      "paths": [
+        {
+          "d": "M0.0 -82.0H44.0L34.0 -2.0H8.0L0.0 -82.0Z",
+          "fill_rule": "evenodd"
+        },
+        {
+          "d": "M70.0 -82.0H114.0L104.0 -2.0H78.0L70.0 -82.0Z",
+          "fill_rule": "evenodd"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -82.0,
+        114.0,
+        -2.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 150.0,
+      "font_origin_shift_x": 18.0
+    },
+    "uni003C": {
+      "unicode": 60,
+      "paths": [
+        {
+          "d": "M177.13672 -41.398437 20.136719 47.601562C13.873155741430304 51.154057738160624 10.002564588505816 57.79913492248198 10.002564588505816 64.9999995C10.002564588505816 72.20086407751799 13.873155741430304 78.84594126183937 20.136718999999992 82.398437L177.13672 171.39844L196.86328 136.60156L70.554687 65.0L196.86328 -6.6015625L177.13672 -41.398437Z",
+          "fill_rule": "nonzero"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        10.002564588505816,
+        -41.398437,
+        196.86328,
+        171.39844
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 222.8607154114942,
+      "font_origin_shift_x": 7.997435411494184
+    },
+    "uni003E": {
+      "unicode": 62,
+      "paths": [
+        {
+          "d": "M32.863281 -41.398437 13.136719 -6.6015625 139.44531 65.0 13.136719 136.60156 32.863281 171.39844 189.86328 82.398437C196.1268432585697 78.84594126183937 199.9974344114942 72.200864077518 199.9974344114942 64.9999995C199.9974344114942 57.79913492248198 196.1268432585697 51.15405773816062 189.86328 47.601561999999994L32.863281 -41.398437Z",
+          "fill_rule": "nonzero"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        13.136719,
+        -41.398437,
+        199.9974344114942,
+        171.39844
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 222.8607154114942,
+      "font_origin_shift_x": 4.863281000000001
+    },
+    "uni007C": {
+      "unicode": 124,
+      "paths": [
+        {
+          "d": "M0.0 -104.0H42.0V228.0H0.0V-104.0Z",
+          "fill_rule": "nonzero"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        0.0,
+        -104.0,
+        42.0,
+        228.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 78.0,
+      "font_origin_shift_x": 18.0
+    },
+    "uni007E": {
+      "unicode": 126,
+      "paths": [
+        {
+          "d": "M39.412109 36.90625C17.55847 38.160147 -1.651388 51.812164 -15.669922 72.255859L15.669922 93.744141C25.651364 79.187871 32.941561 75.339851 41.587891 74.84375C50.23422 74.347649 63.870746999999994 78.801515 82.103516 91.564453C103.87071 106.80149 124.73425 116.34765 146.58789000000002 115.09375C168.44153 113.83985 187.65139000000002 100.18784 201.66992000000002 79.744141L170.33008 58.255859C160.34864000000002 72.812129 153.05844000000002 76.660149 144.41211 77.15625C135.76578 77.652351 122.12925000000001 73.198485 103.89648000000001 60.435547C82.129293 45.198513 61.265749 35.652353 39.412109 36.90625Z",
+          "fill_rule": "nonzero"
+        }
+      ],
+      "reference_role": "extension-draft",
+      "bounds": [
+        -15.669922,
+        36.79604537702743,
+        201.66992000000002,
+        115.20395512161389
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 253.33984200000003,
+      "font_origin_shift_x": 33.669922
+    },
+    "space": {
+      "unicode": 32,
+      "paths": [],
+      "bounds": null,
+      "advance": 110,
+      "left_sidebearing": 0,
+      "right_sidebearing": 0,
+      "font_origin_shift_x": 0,
+      "reference_role": "proposed-metric"
+    }
+  }
+}

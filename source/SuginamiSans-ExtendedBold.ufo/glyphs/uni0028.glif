@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0028" format="2">
+  <advance width="379"/>
+  <unicode hex="0028"/>
+  <outline>
+    <contour>
+      <point x="262.0171820367133" y="793.3559604458042" type="line"/>
+      <point x="122.47659109689138" y="664.1516998931245"/>
+      <point x="44.05594405594405" y="515.5122761959797"/>
+      <point x="44.05594405594405" y="347.5524475524476" type="curve" smooth="yes"/>
+      <point x="44.05594405594405" y="179.59259673432035"/>
+      <point x="122.47659109689138" y="30.953195211770662"/>
+      <point x="262.0171820367133" y="-98.25106534090912" type="curve"/>
+      <point x="335.18563383942717" y="-19.23145214160843" type="line"/>
+      <point x="210.3908031970471" y="96.31930798083755"/>
+      <point x="151.74825174825173" y="212.01607497422015"/>
+      <point x="151.74825174825173" y="347.5524475524476" type="curve" smooth="yes"/>
+      <point x="151.74825174825173" y="483.08881896359105"/>
+      <point x="210.3908031970471" y="598.7855964607293"/>
+      <point x="335.18563383942717" y="714.3363472465035" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.suginamisans.sourceRole</key>
+      <string>extension-draft</string>
+    </dict>
+  </lib>
+</glyph>

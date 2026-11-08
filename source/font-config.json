@@ -1,0 +1,23 @@
+{
+  "family": "Suginami Sans",
+  "style": "Extended Bold",
+  "version_major": 0,
+  "version_minor": 105,
+  "release_status": "static",
+  "units_per_em": 1000,
+  "cap_height": 700,
+  "x_height": 499,
+  "ascender": 850,
+  "descender": -250,
+  "line_gap": 0,
+  "weight_class": 700,
+  "width_class": 7,
+  "svg_baseline": 204,
+  "design_scale_numerator": 700,
+  "design_scale_denominator": 286,
+  "cu2qu_max_error": 0.35,
+  "timestamp_utc": "2026-10-25T00:00:00Z",
+  "metrics_status": "Static Extended Bold 0.105: refine a/s apertures and %/@ counters/channels for 12-16px. ASCII complete; ss01 selects Logo y. Unhinted; a/s spacing and vertical metrics retained.",
+  "ufo_path": "source/SuginamiSans-ExtendedBold.ufo",
+  "output_stem": "fonts/SuginamiSans-ExtendedBold"
+}

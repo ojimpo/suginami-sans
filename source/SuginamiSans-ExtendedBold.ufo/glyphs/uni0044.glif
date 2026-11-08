@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0044" format="2">
+  <advance width="747"/>
+  <unicode hex="0044"/>
+  <outline>
+    <contour>
+      <point x="52.0" y="700.0" type="line"/>
+      <point x="52.0" y="0.0" type="line"/>
+      <point x="323.67832167832165" y="0.0" type="line" smooth="yes"/>
+      <point x="568.4335664335663" y="0.0"/>
+      <point x="712.8391608391607" y="129.72027972027973"/>
+      <point x="712.8391608391607" y="350.0" type="curve" smooth="yes"/>
+      <point x="712.8391608391607" y="570.2797202797203"/>
+      <point x="568.4335664335663" y="700.0"/>
+      <point x="323.67832167832165" y="700.0" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="181.7202797202797" y="597.2027972027972" type="line"/>
+      <point x="316.3356643356643" y="597.2027972027972" type="line" smooth="yes"/>
+      <point x="485.2167832167832" y="597.2027972027972"/>
+      <point x="578.2237762237762" y="509.0909090909091"/>
+      <point x="578.2237762237762" y="350.0" type="curve" smooth="yes"/>
+      <point x="578.2237762237762" y="190.90909090909093"/>
+      <point x="485.2167832167832" y="102.79720279720283"/>
+      <point x="316.3356643356643" y="102.79720279720283" type="curve" smooth="yes"/>
+      <point x="181.7202797202797" y="102.79720279720283" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.suginamisans.sourceRole</key>
+      <string>extension-draft</string>
+    </dict>
+  </lib>
+</glyph>

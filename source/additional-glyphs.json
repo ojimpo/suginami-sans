@@ -1,0 +1,74 @@
+{
+  "version": "0.104",
+  "coordinate_system": "Same Y-down design units as glyphs.json; baseline 204.",
+  "scope": "Only U+0024/U+005E/U+0060; no multilingual expansion.",
+  "glyphs": {
+    "uni0024": {
+      "unicode": 36,
+      "paths": [
+        {
+          "d": "M249.0 -16.0 196.0 -7.0C190.0 -34.0 167.0 -48.0 128.0 -48.0C88.0 -48.0 66.0 -33.0 66.0 -9.0C66.0 14.0 88.0 24.0 139.0 35.0C222.0 52.0 258.0 75.0 258.0 124.0C258.0 179.0 210.0 210.0 131.0 210.0C52.0 210.0 9.0 181.0 0.0 125.0L54.0 116.0C62.0 153.0 87.0 171.0 132.0 171.0C176.0 171.0 203.0 155.0 203.0 128.0C203.0 103.0 180.0 93.0 127.0 82.0C45.0 65.0 12.0 42.0 12.0 -5.0C12.0 -58.0 55.0 -88.0 128.0 -88.0C198.0 -88.0 239.0 -63.0 249.0 -16.0Z",
+          "fill_rule": "evenodd"
+        },
+        {
+          "d": "M115 -112 H143 V234 H115 Z",
+          "fill_rule": "nonzero"
+        }
+      ],
+      "reference_role": "additional-symbol-draft",
+      "bounds": [
+        0.0,
+        -112.0,
+        258.0,
+        234.0
+      ],
+      "left_sidebearing": 16,
+      "right_sidebearing": 16,
+      "advance": 290.0,
+      "font_origin_shift_x": 16.0,
+      "design_notes": "Reuse uppercase S curves; add a single 28-unit vertical shaft, with horizontal ends 24 units beyond S."
+    },
+    "uni005E": {
+      "unicode": 94,
+      "paths": [
+        {
+          "d": "M0 30 L78 -82 H116 L194 30 H140 L97 -38 L54 30 Z",
+          "fill_rule": "nonzero"
+        }
+      ],
+      "reference_role": "additional-symbol-draft",
+      "bounds": [
+        0.0,
+        -82.0,
+        194.0,
+        30.0
+      ],
+      "left_sidebearing": 18,
+      "right_sidebearing": 18,
+      "advance": 230.0,
+      "font_origin_shift_x": 18.0,
+      "design_notes": "Open A-like chevron, 38-unit flat cap and 54-unit horizontal terminal spans; no closed triangle."
+    },
+    "uni0060": {
+      "unicode": 96,
+      "paths": [
+        {
+          "d": "M0 -82 H46 L92 -8 H48 Z",
+          "fill_rule": "nonzero"
+        }
+      ],
+      "reference_role": "additional-symbol-draft",
+      "bounds": [
+        0.0,
+        -82.0,
+        92.0,
+        -8.0
+      ],
+      "left_sidebearing": 14,
+      "right_sidebearing": 14,
+      "advance": 120.0,
+      "font_origin_shift_x": 14.0,
+      "design_notes": "Right-descending grave stroke, horizontal terminals, height matching the apostrophe zone; distinct from upright apostrophe."
+    }
+  }
+}

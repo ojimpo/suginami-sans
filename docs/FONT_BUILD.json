@@ -1,0 +1,13 @@
+{
+  "version": "0.105",
+  "outputs": {
+    "fonts/SuginamiSans-ExtendedBold.otf": "29d6d63dc93626d92b42b613a4c2706c188245a920f4cc8cfe727e376fdf8f60",
+    "fonts/SuginamiSans-ExtendedBold.ttf": "923582814709e0d835c4edec43ce6a29cac5865eb95bd33dc461ec67cc099277"
+  },
+  "glyphs": 99,
+  "encoded_characters": 97,
+  "ufo": "source/SuginamiSans-ExtendedBold.ufo",
+  "cu2qu_max_error_font_units": 0.35,
+  "ttf_zero_area_contours_removed": [],
+  "metrics_status": "Static Extended Bold 0.105: refine a/s apertures and %/@ counters/channels for 12-16px. ASCII complete; ss01 selects Logo y. Unhinted; a/s spacing and vertical metrics retained."
+}

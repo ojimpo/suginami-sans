@@ -1,0 +1,38 @@
+{
+  "version_minor": 105,
+  "source_sha256": "fe03d7c5254f29ee46ebda49a022b5c2a34f97bd109953870d3ea16708370af5",
+  "coordinate_system": "Original SVG design units, Y down",
+  "glyphs": {
+    "a": {
+      "letter": "a",
+      "upper_terminal_lift": 12,
+      "counter_scale": 0.98,
+      "reason": "Open the upper aperture and slightly strengthen the lower counter boundary without changing advance or extents."
+    },
+    "s": {
+      "letter": "s",
+      "upper_terminal_lift": 8,
+      "lower_terminal_drop": 14,
+      "reason": "Open both apertures with minimal changes to the existing horizontal terminals."
+    },
+    "uni0025": {
+      "outer_scale": [
+        1.5,
+        1.32
+      ],
+      "counter_scale": [
+        1.65,
+        1.4
+      ],
+      "circle_separation_x": 44,
+      "reason": "Separate the rings from the diagonal further to avoid a false enclosed pixel in Chromium."
+    },
+    "uni0040": {
+      "outer_scale": 1.24,
+      "core_scale": 1.02,
+      "counter_scale": 0.92,
+      "reason": "Strengthen the central counter boundary and widen the surrounding white channel across subpixel positions."
+    }
+  },
+  "policy": "Preserve imported glyph JSON. Apply only the specified font corrections."
+}

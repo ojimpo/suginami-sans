@@ -1,0 +1,6 @@
+# Static prototype build, shaping and raster verification.
+-r requirements.txt
+skia-pathops==0.9.2
+uharfbuzz==0.57.0
+pillow==13.0.0
+freetype-py==2.5.1

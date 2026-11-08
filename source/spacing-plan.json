@@ -1,0 +1,331 @@
+{
+  "version_minor": 102,
+  "status": "First optical spacing pass; review specimen before approval.",
+  "units": "font units, UPM 1000",
+  "space_advance": 250,
+  "bearings": {
+    "a": [
+      30,
+      36
+    ],
+    "b": [
+      40,
+      28
+    ],
+    "c": [
+      26,
+      28
+    ],
+    "d": [
+      28,
+      40
+    ],
+    "e": [
+      28,
+      26
+    ],
+    "f": [
+      24,
+      16
+    ],
+    "g": [
+      28,
+      36
+    ],
+    "h": [
+      40,
+      38
+    ],
+    "i": [
+      52,
+      52
+    ],
+    "j": [
+      16,
+      48
+    ],
+    "k": [
+      40,
+      22
+    ],
+    "l": [
+      52,
+      52
+    ],
+    "m": [
+      40,
+      38
+    ],
+    "n": [
+      40,
+      38
+    ],
+    "o": [
+      26,
+      26
+    ],
+    "p": [
+      40,
+      28
+    ],
+    "q": [
+      28,
+      40
+    ],
+    "r": [
+      40,
+      18
+    ],
+    "s": [
+      26,
+      26
+    ],
+    "t": [
+      22,
+      20
+    ],
+    "u": [
+      38,
+      40
+    ],
+    "v": [
+      20,
+      20
+    ],
+    "w": [
+      20,
+      20
+    ],
+    "x": [
+      20,
+      20
+    ],
+    "y": [
+      20,
+      20
+    ],
+    "z": [
+      22,
+      22
+    ],
+    "y.alt": [
+      36,
+      40
+    ],
+    "uni0041": [
+      24,
+      24
+    ],
+    "uni0042": [
+      52,
+      30
+    ],
+    "uni0043": [
+      36,
+      32
+    ],
+    "uni0044": [
+      52,
+      34
+    ],
+    "uni0045": [
+      52,
+      32
+    ],
+    "uni0046": [
+      52,
+      24
+    ],
+    "uni0047": [
+      36,
+      38
+    ],
+    "uni0048": [
+      52,
+      52
+    ],
+    "uni0049": [
+      56,
+      56
+    ],
+    "uni004A": [
+      30,
+      46
+    ],
+    "uni004B": [
+      52,
+      24
+    ],
+    "uni004C": [
+      52,
+      22
+    ],
+    "uni004D": [
+      48,
+      48
+    ],
+    "uni004E": [
+      52,
+      52
+    ],
+    "uni004F": [
+      36,
+      36
+    ],
+    "uni0050": [
+      52,
+      24
+    ],
+    "uni0051": [
+      36,
+      36
+    ],
+    "uni0052": [
+      52,
+      24
+    ],
+    "uni0053": [
+      34,
+      34
+    ],
+    "uni0054": [
+      22,
+      22
+    ],
+    "uni0055": [
+      48,
+      48
+    ],
+    "uni0056": [
+      22,
+      22
+    ],
+    "uni0057": [
+      22,
+      22
+    ],
+    "uni0058": [
+      22,
+      22
+    ],
+    "uni0059": [
+      22,
+      22
+    ],
+    "uni005A": [
+      30,
+      30
+    ],
+    "uni0030": [
+      34,
+      34
+    ],
+    "uni0031": [
+      44,
+      48
+    ],
+    "uni0032": [
+      32,
+      30
+    ],
+    "uni0033": [
+      32,
+      32
+    ],
+    "uni0034": [
+      28,
+      28
+    ],
+    "uni0035": [
+      32,
+      32
+    ],
+    "uni0036": [
+      34,
+      32
+    ],
+    "uni0037": [
+      22,
+      26
+    ],
+    "uni0038": [
+      34,
+      34
+    ],
+    "uni0039": [
+      32,
+      34
+    ]
+  },
+  "groups": {
+    "public.kern2.roundLower": [
+      "o",
+      "c",
+      "e",
+      "q",
+      "g"
+    ],
+    "public.kern2.narrowStem": [
+      "i",
+      "l"
+    ]
+  },
+  "kerning": {
+    "uni0054 public.kern2.roundLower": -72,
+    "uni0059 public.kern2.roundLower": -62,
+    "uni0056 public.kern2.roundLower": -34,
+    "uni0057 public.kern2.roundLower": -26,
+    "uni004B public.kern2.roundLower": -36,
+    "uni0046 public.kern2.roundLower": -60,
+    "k public.kern2.roundLower": -18,
+    "f public.kern2.roundLower": -26,
+    "t public.kern2.roundLower": -22,
+    "r public.kern2.roundLower": -12,
+    "uni0054 a": -62,
+    "uni0054 r": -28,
+    "uni0054 u": -30,
+    "uni0054 w": -32,
+    "uni0054 y": -32,
+    "uni0054 y.alt": -24,
+    "uni0059 a": -56,
+    "uni0046 a": -50,
+    "uni0041 uni0056": -88,
+    "uni0056 uni0041": -88,
+    "uni0041 uni0057": -64,
+    "uni0057 uni0041": -64,
+    "uni0041 uni0059": -80,
+    "uni0059 uni0041": -80,
+    "uni0054 uni0041": -64,
+    "uni0041 uni0054": -64,
+    "uni004C uni0054": -78,
+    "uni004C uni0056": -62,
+    "uni004C uni0057": -52,
+    "uni004C uni0059": -74,
+    "uni0056 uni004F": -30,
+    "uni004F uni0056": -24,
+    "uni0059 uni004F": -36,
+    "uni004F uni0059": -32,
+    "uni0054 uni004F": -24,
+    "uni004F uni0054": -18,
+    "uni004F j": -60,
+    "p t": -38,
+    "a p": -6,
+    "o l": -8,
+    "l y.alt": -22,
+    "y.alt z": -12,
+    "z e": -18,
+    "uni0050 uni0031": -54,
+    "k public.kern2.narrowStem": -14,
+    "f public.kern2.narrowStem": -18
+  },
+  "reasoning": {
+    "flat_stems": "Vertical edges keep moderate room; i/l receive slightly wider sidebearings for rhythm.",
+    "rounds": "Round edges carry additional white at shoulders, so bearings are smaller.",
+    "diagonals": "Diagonal edges and crossbar overhangs need small bearings plus pair kerning.",
+    "j": "Small left bearing compensates for the left-reaching descender; Oj is adjusted separately.",
+    "samples": [
+      "Suginami Sans",
+      "Suginami P1"
+    ]
+  }
+}

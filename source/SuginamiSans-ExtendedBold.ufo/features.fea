@@ -1,0 +1,4 @@
+feature ss01 {
+  featureNames { name "Logo y"; };
+  sub y by y.alt;
+} ss01;

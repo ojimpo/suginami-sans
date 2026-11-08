@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni002A" format="2">
+  <advance width="516"/>
+  <unicode hex="002A"/>
+  <outline>
+    <contour>
+      <point x="219.05116374125873" y="700.0" type="line"/>
+      <point x="219.05116374125873" y="545.5364947552448" type="line"/>
+      <point x="70.96946028846153" y="599.7124945367133" type="line"/>
+      <point x="44.05594411713287" y="526.1616313374126" type="line"/>
+      <point x="144.23350093531468" y="489.5104895104895" type="line"/>
+      <point x="44.05594411713287" y="452.85934768356645" type="line"/>
+      <point x="70.96946028846153" y="379.30848448426576" type="line"/>
+      <point x="219.05116374125873" y="433.4844842657343" type="line"/>
+      <point x="219.05116374125873" y="279.02097902097904" type="line"/>
+      <point x="297.3728420629371" y="279.02097902097904" type="line"/>
+      <point x="297.3728420629371" y="433.4844842657343" type="line"/>
+      <point x="445.45454551573425" y="379.30848448426576" type="line"/>
+      <point x="472.36806168706295" y="452.85934768356645" type="line"/>
+      <point x="372.19050486888113" y="489.5104895104895" type="line"/>
+      <point x="472.36806168706295" y="526.1616313374126" type="line"/>
+      <point x="445.45454551573425" y="599.7124945367133" type="line"/>
+      <point x="297.3728420629371" y="545.5364947552448" type="line"/>
+      <point x="297.3728420629371" y="700.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.suginamisans.sourceRole</key>
+      <string>extension-draft</string>
+    </dict>
+  </lib>
+</glyph>

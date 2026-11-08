@@ -1,0 +1,14 @@
+{
+  "result": "PASS",
+  "glyphs": 99,
+  "checks": [
+    "initial JSON to UFO outlines and advances exact",
+    "Unicode, order, features, groups and kerning exact",
+    "OTF and TTF byte-identical to checked-in files",
+    "no Git history required"
+  ],
+  "fonts": {
+    "otf": "29d6d63dc93626d92b42b613a4c2706c188245a920f4cc8cfe727e376fdf8f60",
+    "ttf": "923582814709e0d835c4edec43ce6a29cac5865eb95bd33dc461ec67cc099277"
+  }
+}

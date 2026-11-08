@@ -1,0 +1,1370 @@
+{
+  "a": {
+    "contours": 2,
+    "commands": 22,
+    "bounds": [
+      0.0,
+      -6.0,
+      246.0,
+      210.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "imported"
+  },
+  "b": {
+    "contours": 2,
+    "commands": 17,
+    "bounds": [
+      0.0,
+      -82.0,
+      242.0,
+      210.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "c": {
+    "contours": 1,
+    "commands": 12,
+    "bounds": [
+      0.0,
+      -6.0,
+      239.0,
+      210.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "d": {
+    "contours": 2,
+    "commands": 17,
+    "bounds": [
+      0.0,
+      -82.0,
+      242.0,
+      210.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "e": {
+    "contours": 2,
+    "commands": 16,
+    "bounds": [
+      0.0,
+      -6.0,
+      240.0,
+      210.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "imported"
+  },
+  "f": {
+    "contours": 1,
+    "commands": 18,
+    "bounds": [
+      0.0,
+      -88.0,
+      151.0,
+      204.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "g": {
+    "contours": 2,
+    "commands": 21,
+    "bounds": [
+      0.0,
+      -6.0,
+      242.0,
+      290.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "h": {
+    "contours": 1,
+    "commands": 14,
+    "bounds": [
+      0.0,
+      -82.0,
+      230.0,
+      204.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "i": {
+    "contours": 2,
+    "commands": 12,
+    "bounds": [
+      0.0,
+      -76.0,
+      53.0,
+      204.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "j": {
+    "contours": 2,
+    "commands": 16,
+    "bounds": [
+      -13.0,
+      -76.0,
+      89.0,
+      286.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "k": {
+    "contours": 1,
+    "commands": 13,
+    "bounds": [
+      0.0,
+      -82.0,
+      227.0,
+      204.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "l": {
+    "contours": 1,
+    "commands": 6,
+    "bounds": [
+      0.0,
+      -82.0,
+      53.0,
+      204.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "imported"
+  },
+  "m": {
+    "contours": 1,
+    "commands": 21,
+    "bounds": [
+      0.0,
+      -6.0,
+      366.0,
+      204.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "n": {
+    "contours": 1,
+    "commands": 14,
+    "bounds": [
+      0.0,
+      -6.0,
+      230.0,
+      204.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "o": {
+    "contours": 2,
+    "commands": 12,
+    "bounds": [
+      0.0,
+      -6.0,
+      250.0,
+      210.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "imported"
+  },
+  "p": {
+    "contours": 2,
+    "commands": 17,
+    "bounds": [
+      0.0,
+      -6.0,
+      242.0,
+      282.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "imported"
+  },
+  "q": {
+    "contours": 2,
+    "commands": 17,
+    "bounds": [
+      0.0,
+      -6.0,
+      242.0,
+      282.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "r": {
+    "contours": 1,
+    "commands": 12,
+    "bounds": [
+      0.0,
+      -6.0,
+      154.0,
+      204.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "s": {
+    "contours": 1,
+    "commands": 16,
+    "bounds": [
+      0.0,
+      -6.0,
+      226.0,
+      210.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "t": {
+    "contours": 1,
+    "commands": 18,
+    "bounds": [
+      0.0,
+      -56.0,
+      151.0,
+      208.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "imported"
+  },
+  "u": {
+    "contours": 1,
+    "commands": 14,
+    "bounds": [
+      0.0,
+      0.0,
+      230.0,
+      210.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "v": {
+    "contours": 1,
+    "commands": 9,
+    "bounds": [
+      0.0,
+      0.0,
+      248.0,
+      204.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "w": {
+    "contours": 1,
+    "commands": 15,
+    "bounds": [
+      0.0,
+      0.0,
+      366.0,
+      204.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "x": {
+    "contours": 1,
+    "commands": 14,
+    "bounds": [
+      -4.0,
+      0.0,
+      254.0,
+      204.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "y": {
+    "contours": 1,
+    "commands": 14,
+    "bounds": [
+      0.0,
+      0.0,
+      245.0,
+      290.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "z": {
+    "contours": 1,
+    "commands": 12,
+    "bounds": [
+      0.0,
+      0.0,
+      204.0,
+      204.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "imported"
+  },
+  "y.alt": {
+    "contours": 1,
+    "commands": 18,
+    "bounds": [
+      0.0,
+      0.0,
+      230.0,
+      290.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "imported"
+  },
+  "uni0041": {
+    "contours": 2,
+    "commands": 15,
+    "bounds": [
+      0.0,
+      -82.0,
+      282.0,
+      204.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "uni0042": {
+    "contours": 3,
+    "commands": 23,
+    "bounds": [
+      0.0,
+      -82.0,
+      251.0,
+      204.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "uni0043": {
+    "contours": 1,
+    "commands": 12,
+    "bounds": [
+      0.0,
+      -88.0,
+      281.0,
+      210.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "uni0044": {
+    "contours": 2,
+    "commands": 14,
+    "bounds": [
+      0.0,
+      -82.0,
+      270.0,
+      204.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "uni0045": {
+    "contours": 1,
+    "commands": 14,
+    "bounds": [
+      0.0,
+      -82.0,
+      225.0,
+      204.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "uni0046": {
+    "contours": 1,
+    "commands": 12,
+    "bounds": [
+      0.0,
+      -82.0,
+      220.0,
+      204.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "uni0047": {
+    "contours": 1,
+    "commands": 16,
+    "bounds": [
+      0.0,
+      -88.0,
+      285.0,
+      210.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "uni0048": {
+    "contours": 1,
+    "commands": 14,
+    "bounds": [
+      0.0,
+      -82.0,
+      251.0,
+      204.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "uni0049": {
+    "contours": 1,
+    "commands": 6,
+    "bounds": [
+      0.0,
+      -82.0,
+      53.0,
+      204.0
+    ],
+    "fill_rules": [
+      "nonzero"
+    ],
+    "role": "extension-draft"
+  },
+  "uni004A": {
+    "contours": 1,
+    "commands": 10,
+    "bounds": [
+      0.0,
+      -82.0,
+      210.0,
+      210.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "uni004B": {
+    "contours": 1,
+    "commands": 13,
+    "bounds": [
+      0.0,
+      -82.0,
+      270.0,
+      204.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "uni004C": {
+    "contours": 1,
+    "commands": 8,
+    "bounds": [
+      0.0,
+      -82.0,
+      216.0,
+      204.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "uni004D": {
+    "contours": 1,
+    "commands": 15,
+    "bounds": [
+      0.0,
+      -82.0,
+      332.0,
+      204.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "uni004E": {
+    "contours": 1,
+    "commands": 12,
+    "bounds": [
+      0.0,
+      -82.0,
+      263.0,
+      204.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "uni004F": {
+    "contours": 2,
+    "commands": 12,
+    "bounds": [
+      0.0,
+      -88.0,
+      290.0,
+      210.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "uni0050": {
+    "contours": 2,
+    "commands": 16,
+    "bounds": [
+      0.0,
+      -82.0,
+      249.0,
+      204.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "uni0051": {
+    "contours": 3,
+    "commands": 18,
+    "bounds": [
+      0.0,
+      -88.0,
+      296.0,
+      251.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "uni0052": {
+    "contours": 2,
+    "commands": 19,
+    "bounds": [
+      0.0,
+      -82.0,
+      265.0,
+      204.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "uni0053": {
+    "contours": 1,
+    "commands": 16,
+    "bounds": [
+      0.0,
+      -88.0,
+      258.0,
+      210.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "uni0054": {
+    "contours": 1,
+    "commands": 10,
+    "bounds": [
+      0.0,
+      -82.0,
+      259.0,
+      204.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "uni0055": {
+    "contours": 1,
+    "commands": 12,
+    "bounds": [
+      0.0,
+      -82.0,
+      252.0,
+      210.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "uni0056": {
+    "contours": 1,
+    "commands": 9,
+    "bounds": [
+      0.0,
+      -82.0,
+      288.0,
+      204.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "uni0057": {
+    "contours": 1,
+    "commands": 15,
+    "bounds": [
+      0.0,
+      -82.0,
+      412.0,
+      204.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "uni0058": {
+    "contours": 1,
+    "commands": 14,
+    "bounds": [
+      -4.0,
+      -82.0,
+      290.0,
+      204.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "uni0059": {
+    "contours": 1,
+    "commands": 11,
+    "bounds": [
+      0.0,
+      -82.0,
+      286.0,
+      204.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "uni005A": {
+    "contours": 1,
+    "commands": 12,
+    "bounds": [
+      -4.0,
+      -82.0,
+      255.0,
+      204.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "uni0030": {
+    "contours": 2,
+    "commands": 12,
+    "bounds": [
+      0.0,
+      -88.0,
+      240.0,
+      210.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "uni0031": {
+    "contours": 1,
+    "commands": 13,
+    "bounds": [
+      27.0,
+      -82.0,
+      215.0,
+      204.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "uni0032": {
+    "contours": 1,
+    "commands": 15,
+    "bounds": [
+      0.0,
+      -88.0,
+      234.0,
+      204.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "uni0033": {
+    "contours": 1,
+    "commands": 30,
+    "bounds": [
+      -3.2832031,
+      -89.0,
+      235.0,
+      211.0
+    ],
+    "fill_rules": [
+      "nonzero"
+    ],
+    "role": "extension-draft"
+  },
+  "uni0034": {
+    "contours": 2,
+    "commands": 18,
+    "bounds": [
+      0.0,
+      -82.0,
+      240.0,
+      204.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "uni0035": {
+    "contours": 1,
+    "commands": 17,
+    "bounds": [
+      0.0,
+      -82.0,
+      233.0,
+      210.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "uni0036": {
+    "contours": 2,
+    "commands": 17,
+    "bounds": [
+      0.0,
+      -88.0,
+      238.0,
+      210.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "uni0037": {
+    "contours": 1,
+    "commands": 9,
+    "bounds": [
+      0.0,
+      -82.0,
+      240.0,
+      204.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "uni0038": {
+    "contours": 3,
+    "commands": 22,
+    "bounds": [
+      0.0,
+      -88.0,
+      240.0,
+      210.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "uni0039": {
+    "contours": 2,
+    "commands": 17,
+    "bounds": [
+      2.0,
+      -88.0,
+      240.0,
+      210.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "uni002E": {
+    "contours": 1,
+    "commands": 6,
+    "bounds": [
+      0.0,
+      151.0,
+      53.0,
+      204.0
+    ],
+    "fill_rules": [
+      "nonzero"
+    ],
+    "role": "extension-draft"
+  },
+  "uni002C": {
+    "contours": 1,
+    "commands": 9,
+    "bounds": [
+      -5.0,
+      151.0,
+      66.0,
+      258.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "uni003A": {
+    "contours": 2,
+    "commands": 12,
+    "bounds": [
+      0.0,
+      0.0,
+      53.0,
+      204.0
+    ],
+    "fill_rules": [
+      "nonzero"
+    ],
+    "role": "extension-draft"
+  },
+  "uni003B": {
+    "contours": 2,
+    "commands": 15,
+    "bounds": [
+      -5.0,
+      0.0,
+      66.0,
+      258.0
+    ],
+    "fill_rules": [
+      "evenodd",
+      "nonzero"
+    ],
+    "role": "extension-draft"
+  },
+  "uni0021": {
+    "contours": 2,
+    "commands": 12,
+    "bounds": [
+      0.0,
+      -82.0,
+      57.0,
+      204.0
+    ],
+    "fill_rules": [
+      "evenodd",
+      "nonzero"
+    ],
+    "role": "extension-draft"
+  },
+  "uni003F": {
+    "contours": 2,
+    "commands": 28,
+    "bounds": [
+      0.36523438,
+      -88.0,
+      213.0,
+      204.0
+    ],
+    "fill_rules": [
+      "nonzero"
+    ],
+    "role": "extension-draft"
+  },
+  "uni002D": {
+    "contours": 1,
+    "commands": 6,
+    "bounds": [
+      0.0,
+      70.0,
+      126.0,
+      112.0
+    ],
+    "fill_rules": [
+      "nonzero"
+    ],
+    "role": "extension-draft"
+  },
+  "uni2013": {
+    "contours": 1,
+    "commands": 6,
+    "bounds": [
+      0.0,
+      70.0,
+      230.0,
+      112.0
+    ],
+    "fill_rules": [
+      "nonzero"
+    ],
+    "role": "extension-draft"
+  },
+  "uni2014": {
+    "contours": 1,
+    "commands": 6,
+    "bounds": [
+      0.0,
+      70.0,
+      366.0,
+      112.0
+    ],
+    "fill_rules": [
+      "nonzero"
+    ],
+    "role": "extension-draft"
+  },
+  "uni005F": {
+    "contours": 1,
+    "commands": 6,
+    "bounds": [
+      0.0,
+      236.0,
+      230.0,
+      278.0
+    ],
+    "fill_rules": [
+      "nonzero"
+    ],
+    "role": "extension-draft"
+  },
+  "uni002B": {
+    "contours": 2,
+    "commands": 12,
+    "bounds": [
+      0.0,
+      -24.0,
+      230.0,
+      206.0
+    ],
+    "fill_rules": [
+      "nonzero"
+    ],
+    "role": "extension-draft"
+  },
+  "uni003D": {
+    "contours": 2,
+    "commands": 12,
+    "bounds": [
+      0.0,
+      28.0,
+      230.0,
+      154.0
+    ],
+    "fill_rules": [
+      "nonzero"
+    ],
+    "role": "extension-draft"
+  },
+  "uni002F": {
+    "contours": 1,
+    "commands": 6,
+    "bounds": [
+      0.0,
+      -100.0,
+      216.0,
+      250.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "uni005C": {
+    "contours": 1,
+    "commands": 6,
+    "bounds": [
+      0.0,
+      -100.0,
+      216.0,
+      250.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "uni0028": {
+    "contours": 1,
+    "commands": 8,
+    "bounds": [
+      8.0,
+      -120.14258,
+      126.94727,
+      244.14258
+    ],
+    "fill_rules": [
+      "nonzero"
+    ],
+    "role": "extension-draft"
+  },
+  "uni0029": {
+    "contours": 1,
+    "commands": 8,
+    "bounds": [
+      13.052734,
+      -120.14258,
+      132.0,
+      244.14257999999998
+    ],
+    "fill_rules": [
+      "nonzero"
+    ],
+    "role": "extension-draft"
+  },
+  "uni005B": {
+    "contours": 1,
+    "commands": 10,
+    "bounds": [
+      0.0,
+      -104.0,
+      121.0,
+      228.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "uni005D": {
+    "contours": 1,
+    "commands": 10,
+    "bounds": [
+      0.0,
+      -104.0,
+      121.0,
+      228.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "uni007B": {
+    "contours": 1,
+    "commands": 28,
+    "bounds": [
+      5.280849783453677,
+      -104.0,
+      136.0,
+      228.0
+    ],
+    "fill_rules": [
+      "nonzero"
+    ],
+    "role": "extension-draft"
+  },
+  "uni007D": {
+    "contours": 1,
+    "commands": 28,
+    "bounds": [
+      19.0,
+      -104.0,
+      149.71915021654632,
+      228.0
+    ],
+    "fill_rules": [
+      "nonzero"
+    ],
+    "role": "extension-draft"
+  },
+  "uni0023": {
+    "contours": 2,
+    "commands": 36,
+    "bounds": [
+      0.0,
+      -60.726562,
+      235.0,
+      206.72656
+    ],
+    "fill_rules": [
+      "nonzero"
+    ],
+    "role": "extension-draft"
+  },
+  "uni0025": {
+    "contours": 5,
+    "commands": 46,
+    "bounds": [
+      1.0,
+      -93.451172,
+      259.0,
+      215.45117
+    ],
+    "fill_rules": [
+      "nonzero"
+    ],
+    "role": "extension-draft"
+  },
+  "uni0026": {
+    "contours": 3,
+    "commands": 42,
+    "bounds": [
+      0.5,
+      -95.5,
+      264.66406,
+      209.5
+    ],
+    "fill_rules": [
+      "nonzero"
+    ],
+    "role": "extension-draft"
+  },
+  "uni0040": {
+    "contours": 3,
+    "commands": 58,
+    "bounds": [
+      10.5,
+      -66.5,
+      295.5,
+      234.5
+    ],
+    "fill_rules": [
+      "nonzero"
+    ],
+    "role": "extension-draft"
+  },
+  "uni002A": {
+    "contours": 1,
+    "commands": 20,
+    "bounds": [
+      6.5019531,
+      -82.0,
+      181.49805,
+      90.0
+    ],
+    "fill_rules": [
+      "nonzero"
+    ],
+    "role": "extension-draft"
+  },
+  "uni0027": {
+    "contours": 1,
+    "commands": 6,
+    "bounds": [
+      0.0,
+      -82.0,
+      44.0,
+      -2.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "uni0022": {
+    "contours": 2,
+    "commands": 12,
+    "bounds": [
+      0.0,
+      -82.0,
+      114.0,
+      -2.0
+    ],
+    "fill_rules": [
+      "evenodd"
+    ],
+    "role": "extension-draft"
+  },
+  "uni003C": {
+    "contours": 1,
+    "commands": 10,
+    "bounds": [
+      10.002564588505816,
+      -41.398437,
+      196.86328,
+      171.39844
+    ],
+    "fill_rules": [
+      "nonzero"
+    ],
+    "role": "extension-draft"
+  },
+  "uni003E": {
+    "contours": 1,
+    "commands": 10,
+    "bounds": [
+      13.136719,
+      -41.398437,
+      199.9974344114942,
+      171.39844
+    ],
+    "fill_rules": [
+      "nonzero"
+    ],
+    "role": "extension-draft"
+  },
+  "uni007C": {
+    "contours": 1,
+    "commands": 6,
+    "bounds": [
+      0.0,
+      -104.0,
+      42.0,
+      228.0
+    ],
+    "fill_rules": [
+      "nonzero"
+    ],
+    "role": "extension-draft"
+  },
+  "uni007E": {
+    "contours": 1,
+    "commands": 12,
+    "bounds": [
+      -15.669922,
+      36.79604537702743,
+      201.66992000000002,
+      115.20395512161389
+    ],
+    "fill_rules": [
+      "nonzero"
+    ],
+    "role": "extension-draft"
+  },
+  "space": {
+    "contours": 0,
+    "commands": 0,
+    "bounds": null,
+    "fill_rules": [],
+    "role": "proposed-metric"
+  },
+  "uni0024": {
+    "contours": 2,
+    "commands": 22,
+    "bounds": [
+      0.0,
+      -112.0,
+      258.0,
+      234.0
+    ],
+    "fill_rules": [
+      "evenodd",
+      "nonzero"
+    ],
+    "role": "additional-symbol-draft"
+  },
+  "uni005E": {
+    "contours": 1,
+    "commands": 9,
+    "bounds": [
+      0.0,
+      -82.0,
+      194.0,
+      30.0
+    ],
+    "fill_rules": [
+      "nonzero"
+    ],
+    "role": "additional-symbol-draft"
+  },
+  "uni0060": {
+    "contours": 1,
+    "commands": 6,
+    "bounds": [
+      0.0,
+      -82.0,
+      92.0,
+      -8.0
+    ],
+    "fill_rules": [
+      "nonzero"
+    ],
+    "role": "additional-symbol-draft"
+  }
+}

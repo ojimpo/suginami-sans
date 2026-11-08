@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0034" format="2">
+  <advance width="643"/>
+  <unicode hex="0034"/>
+  <outline>
+    <contour>
+      <point x="380.4475524475524" y="700.0" type="line"/>
+      <point x="28.0" y="264.3356643356643" type="line"/>
+      <point x="28.0" y="159.09090909090912" type="line"/>
+      <point x="395.13286713286715" y="159.09090909090912" type="line"/>
+      <point x="395.13286713286715" y="0.0" type="line"/>
+      <point x="524.8531468531469" y="0.0" type="line"/>
+      <point x="524.8531468531469" y="159.09090909090912" type="line"/>
+      <point x="615.4125874125873" y="159.09090909090912" type="line"/>
+      <point x="615.4125874125873" y="261.8881118881119" type="line"/>
+      <point x="524.8531468531469" y="261.8881118881119" type="line"/>
+      <point x="524.8531468531469" y="700.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="395.13286713286715" y="536.013986013986" type="line"/>
+      <point x="395.13286713286715" y="261.8881118881119" type="line"/>
+      <point x="179.74825174825173" y="261.8881118881119" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.suginamisans.sourceRole</key>
+      <string>extension-draft</string>
+    </dict>
+  </lib>
+</glyph>

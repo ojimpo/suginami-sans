@@ -1,0 +1,18 @@
+{
+  "result": "PASS",
+  "members": [
+    "PROVENANCE.md",
+    "README.md",
+    "SHA256SUMS.txt",
+    "SuginamiSans-ExtendedBold.otf",
+    "SuginamiSans-ExtendedBold.ttf",
+    "VALIDATION.md",
+    "specimen.png"
+  ],
+  "assets": {
+    "SuginamiSans-ExtendedBold-0.105.zip": "4bd9f6ca273a189245798ccde9dbd9d04310aa08b49685e2eb872864b6c0b631",
+    "SuginamiSans-ExtendedBold.otf": "29d6d63dc93626d92b42b613a4c2706c188245a920f4cc8cfe727e376fdf8f60",
+    "SuginamiSans-ExtendedBold.ttf": "923582814709e0d835c4edec43ce6a29cac5865eb95bd33dc461ec67cc099277",
+    "SHA256SUMS.txt": "b5bc911c61d0c1cedea56c22999f2647edf5d86cf381080848253645e03f657c"
+  }
+}

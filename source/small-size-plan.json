@@ -1,0 +1,26 @@
+{
+  "version_minor": 103,
+  "source_sha256": "fe03d7c5254f29ee46ebda49a022b5c2a34f97bd109953870d3ea16708370af5",
+  "coordinate_system": "original SVG design units, Y down",
+  "glyphs": {
+    "uni0025": {
+      "outer_scale": [
+        1.5,
+        1.32
+      ],
+      "counter_scale": [
+        1.65,
+        1.4
+      ],
+      "circle_separation_x": 36,
+      "reason": "Keep the ring thick while widening counters; separate bowls from slash to preserve white channels."
+    },
+    "uni0040": {
+      "outer_scale": 1.16,
+      "core_scale": 1.0,
+      "counter_scale": 0.94,
+      "reason": "Widen the annular white channel without shrinking the central a body; slightly strengthen its enclosing stroke."
+    }
+  },
+  "policy": "Preserve imported glyph JSON. Apply only the specified font corrections."
+}

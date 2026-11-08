@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni004B" format="2">
+  <advance width="737"/>
+  <unicode hex="004B"/>
+  <outline>
+    <contour>
+      <point x="52.0" y="700.0" type="line"/>
+      <point x="52.0" y="0.0" type="line"/>
+      <point x="181.7202797202797" y="0.0" type="line"/>
+      <point x="181.7202797202797" y="332.8671328671329" type="line"/>
+      <point x="529.2727272727273" y="0.0" type="line"/>
+      <point x="712.8391608391607" y="0.0" type="line"/>
+      <point x="326.12587412587413" y="367.13286713286715" type="line"/>
+      <point x="681.020979020979" y="700.0" type="line"/>
+      <point x="507.24475524475525" y="700.0" type="line"/>
+      <point x="181.7202797202797" y="391.6083916083916" type="line"/>
+      <point x="181.7202797202797" y="700.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.suginamisans.sourceRole</key>
+      <string>extension-draft</string>
+    </dict>
+  </lib>
+</glyph>

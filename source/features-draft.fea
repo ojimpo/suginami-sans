@@ -1,0 +1,5 @@
+# Template only. Compile after glyph naming and font data are established.
+# Standard y remains encoded as U+0079; custom y.alt has no Unicode.
+feature ss01 {
+    sub y by y.alt;
+} ss01;

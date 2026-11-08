@@ -1,0 +1,3 @@
+4bd9f6ca273a189245798ccde9dbd9d04310aa08b49685e2eb872864b6c0b631  SuginamiSans-ExtendedBold-0.105.zip
+29d6d63dc93626d92b42b613a4c2706c188245a920f4cc8cfe727e376fdf8f60  SuginamiSans-ExtendedBold.otf
+923582814709e0d835c4edec43ce6a29cac5865eb95bd33dc461ec67cc099277  SuginamiSans-ExtendedBold.ttf

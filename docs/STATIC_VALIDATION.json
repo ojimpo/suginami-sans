@@ -1,0 +1,1875 @@
+{
+  "result": "PASS",
+  "ufo_glyph_count": 99,
+  "ufo_checks": {
+    ".notdef": {
+      "contours": 2,
+      "signed_area": 200000.0,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "a": {
+      "contours": 2,
+      "signed_area": 187880.58009457478,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "b": {
+      "contours": 2,
+      "signed_area": 210398.5042568759,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "c": {
+      "contours": 1,
+      "signed_area": 142502.33397268254,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "d": {
+      "contours": 2,
+      "signed_area": 210398.50579017005,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "e": {
+      "contours": 2,
+      "signed_area": 183014.6724969113,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "f": {
+      "contours": 1,
+      "signed_area": 128362.30008343124,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "g": {
+      "contours": 2,
+      "signed_area": 242235.37176873646,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "h": {
+      "contours": 1,
+      "signed_area": 181876.1727925771,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "i": {
+      "contours": 2,
+      "signed_area": 79691.7890625,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "j": {
+      "contours": 2,
+      "signed_area": 113689.75741296633,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "k": {
+      "contours": 1,
+      "signed_area": 175102.693359375,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "l": {
+      "contours": 1,
+      "signed_area": 90804.1953125,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "m": {
+      "contours": 1,
+      "signed_area": 239726.2533782415,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "n": {
+      "contours": 1,
+      "signed_area": 155841.3993550771,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "o": {
+      "contours": 2,
+      "signed_area": 170289.92015274416,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "p": {
+      "contours": 2,
+      "signed_area": 209128.5101162509,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "q": {
+      "contours": 2,
+      "signed_area": 209128.51164954505,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "r": {
+      "contours": 1,
+      "signed_area": 93996.23954772207,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "s": {
+      "contours": 1,
+      "signed_area": 157155.41544513468,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "t": {
+      "contours": 1,
+      "signed_area": 120090.00325108056,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "u": {
+      "contours": 1,
+      "signed_area": 155841.39269965477,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "v": {
+      "contours": 1,
+      "signed_area": 124830.3046875,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "w": {
+      "contours": 1,
+      "signed_area": 222990.869140625,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "x": {
+      "contours": 1,
+      "signed_area": 145018.3505859375,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "y": {
+      "contours": 1,
+      "signed_area": 163168.09397667905,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "z": {
+      "contours": 1,
+      "signed_area": 145874.96875,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "y.alt": {
+      "contours": 1,
+      "signed_area": 201658.93613919604,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni0041": {
+      "contours": 2,
+      "signed_area": 206421.0830078125,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni0042": {
+      "contours": 3,
+      "signed_area": 269520.6685401928,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni0043": {
+      "contours": 1,
+      "signed_area": 192692.63041207183,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni0044": {
+      "contours": 2,
+      "signed_area": 239758.9037533569,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni0045": {
+      "contours": 1,
+      "signed_area": 213334.15234375,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni0046": {
+      "contours": 1,
+      "signed_area": 169555.484375,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni0047": {
+      "contours": 1,
+      "signed_area": 242612.46620748087,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni0048": {
+      "contours": 1,
+      "signed_area": 218090.65625,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni0049": {
+      "contours": 1,
+      "signed_area": 90804.1953125,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni004A": {
+      "contours": 1,
+      "signed_area": 133050.1878990479,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni004B": {
+      "contours": 1,
+      "signed_area": 213903.2734375,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni004C": {
+      "contours": 1,
+      "signed_area": 131815.24609375,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni004D": {
+      "contours": 1,
+      "signed_area": 334516.21875,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni004E": {
+      "contours": 1,
+      "signed_area": 273299.1796875,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni004F": {
+      "contours": 2,
+      "signed_area": 234236.216128956,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni0050": {
+      "contours": 2,
+      "signed_area": 205095.38550129216,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni0051": {
+      "contours": 2,
+      "signed_area": 265870.7688168481,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni0052": {
+      "contours": 2,
+      "signed_area": 244710.0408314657,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni0053": {
+      "contours": 1,
+      "signed_area": 219507.04781286482,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni0054": {
+      "contours": 1,
+      "signed_area": 142634.09375,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni0055": {
+      "contours": 1,
+      "signed_area": 203250.91062749195,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni0056": {
+      "contours": 1,
+      "signed_area": 184256.203125,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni0057": {
+      "contours": 1,
+      "signed_area": 328387.9296875,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni0058": {
+      "contours": 1,
+      "signed_area": 207643.150390625,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni0059": {
+      "contours": 1,
+      "signed_area": 152156.046875,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni005A": {
+      "contours": 1,
+      "signed_area": 208874.22265625,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni0030": {
+      "contours": 2,
+      "signed_area": 210296.95172561612,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni0031": {
+      "contours": 1,
+      "signed_area": 143442.8330078125,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni0032": {
+      "contours": 1,
+      "signed_area": 184849.25778427182,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni0033": {
+      "contours": 1,
+      "signed_area": 196299.45007321122,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni0034": {
+      "contours": 2,
+      "signed_area": 192403.3125,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni0035": {
+      "contours": 1,
+      "signed_area": 205345.8019619147,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni0036": {
+      "contours": 2,
+      "signed_area": 223205.0097053175,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni0037": {
+      "contours": 1,
+      "signed_area": 144757.7578125,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni0038": {
+      "contours": 3,
+      "signed_area": 235037.78307942604,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni0039": {
+      "contours": 2,
+      "signed_area": 223205.00649482544,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni002E": {
+      "contours": 1,
+      "signed_area": 16827.3515625,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni002C": {
+      "contours": 1,
+      "signed_area": 28329.13330078125,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni003A": {
+      "contours": 2,
+      "signed_area": 33654.703125,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni003B": {
+      "contours": 2,
+      "signed_area": 45156.48095703125,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni0021": {
+      "contours": 2,
+      "signed_area": 77259.6533203125,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni003F": {
+      "contours": 2,
+      "signed_area": 124206.28296309515,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni002D": {
+      "contours": 1,
+      "signed_area": 31701.7890625,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni2013": {
+      "contours": 1,
+      "signed_area": 57868.3515625,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni2014": {
+      "contours": 1,
+      "signed_area": 92086.171875,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni005F": {
+      "contours": 1,
+      "signed_area": 57868.3515625,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni002B": {
+      "contours": 1,
+      "signed_area": 105169.42953491211,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni003D": {
+      "contours": 2,
+      "signed_area": 115736.6953125,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni002F": {
+      "contours": 1,
+      "signed_area": 104834.0,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni005C": {
+      "contours": 1,
+      "signed_area": 104833.99609375,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni0028": {
+      "contours": 1,
+      "signed_area": 100114.52318578435,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni0029": {
+      "contours": 1,
+      "signed_area": 100114.52256474746,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni005B": {
+      "contours": 1,
+      "signed_area": 130449.40673828125,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni005D": {
+      "contours": 1,
+      "signed_area": 130449.39208984375,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni007B": {
+      "contours": 1,
+      "signed_area": 102575.10270348165,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni007D": {
+      "contours": 1,
+      "signed_area": 102575.09583033237,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni0023": {
+      "contours": 2,
+      "signed_area": 185726.76135253906,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni0025": {
+      "contours": 5,
+      "signed_area": 253448.50563027192,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 5.820766091346741e-11
+    },
+    "uni0026": {
+      "contours": 3,
+      "signed_area": 244764.00138981,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 9.221781510859728e-06
+    },
+    "uni0040": {
+      "contours": 2,
+      "signed_area": 326220.57829814707,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni002A": {
+      "contours": 1,
+      "signed_area": 82763.869140625,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni0027": {
+      "contours": 1,
+      "signed_area": 16773.44140625,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni0022": {
+      "contours": 2,
+      "signed_area": 33546.8798828125,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni003C": {
+      "contours": 1,
+      "signed_area": 84789.14722337585,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni003E": {
+      "contours": 1,
+      "signed_area": 84789.14393436183,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni007C": {
+      "contours": 1,
+      "signed_area": 83531.71875,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni007E": {
+      "contours": 1,
+      "signed_area": 49013.72230732078,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "space": {
+      "contours": 0,
+      "signed_area": 0.0,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni0024": {
+      "contours": 3,
+      "signed_area": 255912.8665174733,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni005E": {
+      "contours": 1,
+      "signed_area": 60312.4921875,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    },
+    "uni0060": {
+      "contours": 1,
+      "signed_area": 19948.41015625,
+      "winding_xor_area": 0.0,
+      "simplification_area_delta": 0.0
+    }
+  },
+  "immutable_input_sha256": {
+    "source/glyphs.json": "fe03d7c5254f29ee46ebda49a022b5c2a34f97bd109953870d3ea16708370af5",
+    "source/additional-glyphs.json": "825c9035265b1dcc423cfabff7376183b3b9bee4faa390709829ce377db706ad",
+    "source/spacing-plan.json": "1944c654d34f0980b025f1d56ddb2d0dae5f571f6a03da952a709f18e644fb44",
+    "source/small-size-plan.json": "58a670bf74b96b6d08d2fc86b1f557ffa60cc34914c96b4dd845f855c50f376c",
+    "source/release-size-plan.json": "8489e9dec3c8ba81343c3c68b9da0007682babdc7ff9a5dcb647ff1dc6fa3291",
+    "source/expected-counters.json": "7d357ad3a173df5182edd9c05eb9766c1b332172211efafd98ad4be941c43372"
+  },
+  "fonts": {
+    "otf": {
+      "sha256": "29d6d63dc93626d92b42b613a4c2706c188245a920f4cc8cfe727e376fdf8f60",
+      "bytes": 20884,
+      "glyph_count": 99,
+      "cmap_count": 97,
+      "default_y_gid": 25,
+      "ss01_y_gid": 27,
+      "line_extents": [
+        -211,
+        794
+      ],
+      "tables": [
+        "GlyphOrder",
+        "head",
+        "hhea",
+        "maxp",
+        "OS/2",
+        "name",
+        "cmap",
+        "post",
+        "CFF ",
+        "GPOS",
+        "GSUB",
+        "hmtx"
+      ],
+      "glyph_checks": {
+        ".notdef": {
+          "contours": 2,
+          "signed_area": 200000.0,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "a": {
+          "contours": 2,
+          "signed_area": 187880.60215719615,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0014934403588995337
+        },
+        "b": {
+          "contours": 2,
+          "signed_area": 210398.47047837664,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "c": {
+          "contours": 1,
+          "signed_area": 142502.3121802666,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "d": {
+          "contours": 2,
+          "signed_area": 210398.47573263914,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "e": {
+          "contours": 2,
+          "signed_area": 183014.66593989474,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "f": {
+          "contours": 1,
+          "signed_area": 128362.31464571622,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "g": {
+          "contours": 2,
+          "signed_area": 242235.3508290737,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "h": {
+          "contours": 1,
+          "signed_area": 181876.1595593974,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "i": {
+          "contours": 2,
+          "signed_area": 79691.79296875,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "j": {
+          "contours": 2,
+          "signed_area": 113689.73981368178,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "k": {
+          "contours": 1,
+          "signed_area": 175102.6953125,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "l": {
+          "contours": 1,
+          "signed_area": 90804.1953125,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "m": {
+          "contours": 1,
+          "signed_area": 239726.252688331,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "n": {
+          "contours": 1,
+          "signed_area": 155841.3978406474,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "o": {
+          "contours": 2,
+          "signed_area": 170289.90701668742,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "p": {
+          "contours": 2,
+          "signed_area": 209128.4861854435,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "q": {
+          "contours": 2,
+          "signed_area": 209128.48552451347,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "r": {
+          "contours": 1,
+          "signed_area": 93996.25226178218,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "s": {
+          "contours": 1,
+          "signed_area": 157155.42566936644,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "t": {
+          "contours": 1,
+          "signed_area": 120090.01556733278,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "u": {
+          "contours": 1,
+          "signed_area": 155841.40974230028,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "v": {
+          "contours": 1,
+          "signed_area": 124830.29296875,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "w": {
+          "contours": 1,
+          "signed_area": 222990.85546875,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "x": {
+          "contours": 1,
+          "signed_area": 145018.337890625,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "y": {
+          "contours": 1,
+          "signed_area": 163168.0969155166,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 6.97282375767827e-05
+        },
+        "z": {
+          "contours": 1,
+          "signed_area": 145874.99238127563,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "y.alt": {
+          "contours": 1,
+          "signed_area": 201658.94466622366,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0041": {
+          "contours": 2,
+          "signed_area": 206421.09521484375,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0042": {
+          "contours": 3,
+          "signed_area": 269520.66823557136,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0043": {
+          "contours": 1,
+          "signed_area": 192692.59735745896,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0044": {
+          "contours": 2,
+          "signed_area": 239758.8980974679,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0045": {
+          "contours": 1,
+          "signed_area": 213334.1484375,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0046": {
+          "contours": 1,
+          "signed_area": 169555.5078125,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0047": {
+          "contours": 1,
+          "signed_area": 242612.45689568785,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0048": {
+          "contours": 1,
+          "signed_area": 218090.65625,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0049": {
+          "contours": 1,
+          "signed_area": 90804.1953125,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni004A": {
+          "contours": 1,
+          "signed_area": 133050.20150172472,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni004B": {
+          "contours": 1,
+          "signed_area": 213903.265625,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni004C": {
+          "contours": 1,
+          "signed_area": 131815.24609375,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni004D": {
+          "contours": 1,
+          "signed_area": 334516.23150634766,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni004E": {
+          "contours": 1,
+          "signed_area": 273299.1953125,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni004F": {
+          "contours": 2,
+          "signed_area": 234236.21604719874,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0050": {
+          "contours": 2,
+          "signed_area": 205095.3934727825,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0051": {
+          "contours": 2,
+          "signed_area": 265870.7698651392,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0015237447805702686
+        },
+        "uni0052": {
+          "contours": 2,
+          "signed_area": 244710.03279785241,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0053": {
+          "contours": 1,
+          "signed_area": 219507.0545656525,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0054": {
+          "contours": 1,
+          "signed_area": 142634.09375,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0055": {
+          "contours": 1,
+          "signed_area": 203250.87497357058,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0056": {
+          "contours": 1,
+          "signed_area": 184256.2109375,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0057": {
+          "contours": 1,
+          "signed_area": 328387.9453125,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0058": {
+          "contours": 1,
+          "signed_area": 207643.146484375,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0059": {
+          "contours": 1,
+          "signed_area": 152156.0390625,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni005A": {
+          "contours": 1,
+          "signed_area": 208874.1875,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0030": {
+          "contours": 2,
+          "signed_area": 210296.960318011,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0031": {
+          "contours": 1,
+          "signed_area": 143442.826171875,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0032": {
+          "contours": 1,
+          "signed_area": 184849.28374374073,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.008104231208562851
+        },
+        "uni0033": {
+          "contours": 1,
+          "signed_area": 196299.44651676083,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.002592672419268638
+        },
+        "uni0034": {
+          "contours": 2,
+          "signed_area": 192403.30859375,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0035": {
+          "contours": 1,
+          "signed_area": 205345.77159821242,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0005521968996617943
+        },
+        "uni0036": {
+          "contours": 2,
+          "signed_area": 223205.02182270458,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0011126870522275567
+        },
+        "uni0037": {
+          "contours": 1,
+          "signed_area": 144757.734375,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0038": {
+          "contours": 3,
+          "signed_area": 235037.7963898059,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.004101519181858748
+        },
+        "uni0039": {
+          "contours": 2,
+          "signed_area": 223204.97772899838,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.00011959689436480403
+        },
+        "uni002E": {
+          "contours": 1,
+          "signed_area": 16827.349609375,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni002C": {
+          "contours": 1,
+          "signed_area": 28329.13330078125,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni003A": {
+          "contours": 2,
+          "signed_area": 33654.69723937567,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni003B": {
+          "contours": 2,
+          "signed_area": 45156.48095703125,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0021": {
+          "contours": 2,
+          "signed_area": 77259.6396484375,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni003F": {
+          "contours": 2,
+          "signed_area": 124206.28077364272,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.004430854329257272
+        },
+        "uni002D": {
+          "contours": 1,
+          "signed_area": 31701.796875,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni2013": {
+          "contours": 1,
+          "signed_area": 57868.359375,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni2014": {
+          "contours": 1,
+          "signed_area": 92086.1875,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni005F": {
+          "contours": 1,
+          "signed_area": 57868.34765625,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni002B": {
+          "contours": 1,
+          "signed_area": 105169.44830322266,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni003D": {
+          "contours": 2,
+          "signed_area": 115736.6796875,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni002F": {
+          "contours": 1,
+          "signed_area": 104833.9775390625,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni005C": {
+          "contours": 1,
+          "signed_area": 104833.9970703125,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0028": {
+          "contours": 1,
+          "signed_area": 100114.52552156305,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0029": {
+          "contours": 1,
+          "signed_area": 100114.50350192327,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni005B": {
+          "contours": 1,
+          "signed_area": 130449.408203125,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni005D": {
+          "contours": 1,
+          "signed_area": 130449.390625,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni007B": {
+          "contours": 1,
+          "signed_area": 102575.0682064778,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni007D": {
+          "contours": 1,
+          "signed_area": 102575.09007208586,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0014564316807081923
+        },
+        "uni0023": {
+          "contours": 2,
+          "signed_area": 185726.76544126333,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0025": {
+          "contours": 5,
+          "signed_area": 253448.5352769193,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0026": {
+          "contours": 3,
+          "signed_area": 244764.01291399152,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0023781779455021024
+        },
+        "uni0040": {
+          "contours": 2,
+          "signed_area": 326220.55183393526,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.001756278274115175
+        },
+        "uni002A": {
+          "contours": 1,
+          "signed_area": 82763.8828125,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0027": {
+          "contours": 1,
+          "signed_area": 16773.439453125,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0022": {
+          "contours": 2,
+          "signed_area": 33546.87109375,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni003C": {
+          "contours": 1,
+          "signed_area": 84789.14627338189,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni003E": {
+          "contours": 1,
+          "signed_area": 84789.13201688937,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni007C": {
+          "contours": 1,
+          "signed_area": 83531.7099609375,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni007E": {
+          "contours": 1,
+          "signed_area": 49013.72232606275,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 3.598733019316569e-05
+        },
+        "space": {
+          "contours": 0,
+          "signed_area": 0.0,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0024": {
+          "contours": 3,
+          "signed_area": 255912.86016475857,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni005E": {
+          "contours": 1,
+          "signed_area": 60312.48828125,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0060": {
+          "contours": 1,
+          "signed_area": 19948.40234375,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        }
+      }
+    },
+    "ttf": {
+      "sha256": "923582814709e0d835c4edec43ce6a29cac5865eb95bd33dc461ec67cc099277",
+      "bytes": 11416,
+      "glyph_count": 99,
+      "cmap_count": 97,
+      "default_y_gid": 25,
+      "ss01_y_gid": 27,
+      "line_extents": [
+        -210,
+        793
+      ],
+      "tables": [
+        "GlyphOrder",
+        "head",
+        "hhea",
+        "maxp",
+        "OS/2",
+        "hmtx",
+        "cmap",
+        "loca",
+        "glyf",
+        "name",
+        "post",
+        "GPOS",
+        "GSUB"
+      ],
+      "glyph_checks": {
+        ".notdef": {
+          "contours": 2,
+          "signed_area": 200000.0,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "a": {
+          "contours": 2,
+          "signed_area": 187879.7916666666,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "b": {
+          "contours": 2,
+          "signed_area": 210507.8749999999,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "c": {
+          "contours": 1,
+          "signed_area": 142697.0416666667,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "d": {
+          "contours": 2,
+          "signed_area": 210168.625,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "e": {
+          "contours": 2,
+          "signed_area": 183429.08333333334,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "f": {
+          "contours": 1,
+          "signed_area": 128508.25,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "g": {
+          "contours": 2,
+          "signed_area": 241923.58333333337,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "h": {
+          "contours": 1,
+          "signed_area": 182113.54166666663,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "i": {
+          "contours": 2,
+          "signed_area": 79820.0,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "j": {
+          "contours": 2,
+          "signed_area": 113874.75,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "k": {
+          "contours": 1,
+          "signed_area": 175190.0,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "l": {
+          "contours": 1,
+          "signed_area": 91000.0,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "m": {
+          "contours": 1,
+          "signed_area": 239574.87499999997,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "n": {
+          "contours": 1,
+          "signed_area": 155983.54166666663,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "o": {
+          "contours": 2,
+          "signed_area": 170413.45833333334,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "p": {
+          "contours": 2,
+          "signed_area": 209207.87499999997,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "q": {
+          "contours": 2,
+          "signed_area": 208878.62499999994,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "r": {
+          "contours": 1,
+          "signed_area": 93920.7916666667,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "s": {
+          "contours": 1,
+          "signed_area": 157395.49999999997,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "t": {
+          "contours": 1,
+          "signed_area": 120169.66666666666,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "u": {
+          "contours": 1,
+          "signed_area": 156063.45833333334,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "v": {
+          "contours": 1,
+          "signed_area": 125036.5,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "w": {
+          "contours": 1,
+          "signed_area": 222927.5,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "x": {
+          "contours": 1,
+          "signed_area": 145107.0,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "y": {
+          "contours": 1,
+          "signed_area": 163208.83333333334,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "z": {
+          "contours": 1,
+          "signed_area": 145636.0,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "y.alt": {
+          "contours": 1,
+          "signed_area": 201606.95833333334,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0041": {
+          "contours": 2,
+          "signed_area": 206297.5,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0042": {
+          "contours": 3,
+          "signed_area": 269634.0833333333,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0043": {
+          "contours": 1,
+          "signed_area": 193008.3333333334,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0044": {
+          "contours": 2,
+          "signed_area": 239973.00000000006,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0045": {
+          "contours": 1,
+          "signed_area": 213673.0,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0046": {
+          "contours": 1,
+          "signed_area": 169438.0,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0047": {
+          "contours": 1,
+          "signed_area": 243067.41666666674,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0048": {
+          "contours": 1,
+          "signed_area": 217865.0,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0049": {
+          "contours": 1,
+          "signed_area": 91000.0,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni004A": {
+          "contours": 1,
+          "signed_area": 133265.91666666666,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni004B": {
+          "contours": 1,
+          "signed_area": 214096.5,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni004C": {
+          "contours": 1,
+          "signed_area": 132097.0,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni004D": {
+          "contours": 1,
+          "signed_area": 334816.0,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni004E": {
+          "contours": 1,
+          "signed_area": 273440.0,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni004F": {
+          "contours": 2,
+          "signed_area": 234428.9166666667,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0050": {
+          "contours": 2,
+          "signed_area": 205092.50000000006,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0051": {
+          "contours": 2,
+          "signed_area": 265993.6666666666,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0052": {
+          "contours": 2,
+          "signed_area": 244928.00000000006,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0053": {
+          "contours": 1,
+          "signed_area": 219537.66666666672,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0054": {
+          "contours": 1,
+          "signed_area": 142912.0,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0055": {
+          "contours": 1,
+          "signed_area": 203590.16666666666,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0056": {
+          "contours": 1,
+          "signed_area": 184319.5,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0057": {
+          "contours": 1,
+          "signed_area": 328460.5,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0058": {
+          "contours": 1,
+          "signed_area": 207753.0,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0059": {
+          "contours": 1,
+          "signed_area": 152399.0,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni005A": {
+          "contours": 1,
+          "signed_area": 208677.0,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0030": {
+          "contours": 2,
+          "signed_area": 210325.83333333337,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0031": {
+          "contours": 1,
+          "signed_area": 143183.0,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0032": {
+          "contours": 1,
+          "signed_area": 184945.75,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0033": {
+          "contours": 1,
+          "signed_area": 196319.08333333343,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0034": {
+          "contours": 2,
+          "signed_area": 192626.0,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0035": {
+          "contours": 1,
+          "signed_area": 205823.58333333343,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0036": {
+          "contours": 2,
+          "signed_area": 223926.00000000006,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0037": {
+          "contours": 1,
+          "signed_area": 144740.0,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0038": {
+          "contours": 3,
+          "signed_area": 235334.5416666668,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0039": {
+          "contours": 2,
+          "signed_area": 223827.00000000003,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni002E": {
+          "contours": 1,
+          "signed_area": 16900.0,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni002C": {
+          "contours": 1,
+          "signed_area": 28426.0,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni003A": {
+          "contours": 2,
+          "signed_area": 33670.0,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni003B": {
+          "contours": 2,
+          "signed_area": 45196.0,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0021": {
+          "contours": 2,
+          "signed_area": 77462.5,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni003F": {
+          "contours": 2,
+          "signed_area": 124200.29166666666,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni002D": {
+          "contours": 1,
+          "signed_area": 31724.0,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni2013": {
+          "contours": 1,
+          "signed_area": 57989.0,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni2014": {
+          "contours": 1,
+          "signed_area": 92288.0,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni005F": {
+          "contours": 1,
+          "signed_area": 57989.0,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni002B": {
+          "contours": 1,
+          "signed_area": 105369.0,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni003D": {
+          "contours": 2,
+          "signed_area": 115978.0,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni002F": {
+          "contours": 1,
+          "signed_area": 104982.5,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni005C": {
+          "contours": 1,
+          "signed_area": 104982.5,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0028": {
+          "contours": 1,
+          "signed_area": 100134.125,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0029": {
+          "contours": 1,
+          "signed_area": 100134.12499999999,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni005B": {
+          "contours": 1,
+          "signed_area": 130822.0,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni005D": {
+          "contours": 1,
+          "signed_area": 130205.0,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni007B": {
+          "contours": 1,
+          "signed_area": 102738.91666666667,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni007D": {
+          "contours": 1,
+          "signed_area": 102713.33333333337,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0023": {
+          "contours": 2,
+          "signed_area": 185778.0,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0025": {
+          "contours": 5,
+          "signed_area": 253649.33333333337,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0026": {
+          "contours": 3,
+          "signed_area": 244566.54166666663,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0040": {
+          "contours": 2,
+          "signed_area": 326334.4583333333,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni002A": {
+          "contours": 1,
+          "signed_area": 82908.0,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0027": {
+          "contours": 1,
+          "signed_area": 16758.0,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0022": {
+          "contours": 2,
+          "signed_area": 33614.0,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni003C": {
+          "contours": 1,
+          "signed_area": 84699.91666666667,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni003E": {
+          "contours": 1,
+          "signed_area": 84928.24999999997,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni007C": {
+          "contours": 1,
+          "signed_area": 83739.0,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni007E": {
+          "contours": 1,
+          "signed_area": 48983.208333333336,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "space": {
+          "contours": 0,
+          "signed_area": 0.0,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0024": {
+          "contours": 3,
+          "signed_area": 255694.20833333334,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni005E": {
+          "contours": 1,
+          "signed_area": 60303.0,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        },
+        "uni0060": {
+          "contours": 1,
+          "signed_area": 19910.0,
+          "winding_xor_area": 0.0,
+          "simplification_area_delta": 0.0
+        }
+      }
+    }
+  },
+  "missing_printable_ascii": [],
+  "kerning_pairs": 46,
+  "passed": [
+    "UFO v3 validation",
+    "all binary table round-trips",
+    "Unicode exact coverage",
+    "HarfBuzz default y and ss01",
+    "closed finite outlines",
+    "nonzero/evenodd area equivalence",
+    "outer contour direction",
+    "signed ink area after simplification",
+    "no metric clipping",
+    "input checksums match"
+  ],
+  "limits": [
+    "not an independent exact curve self-intersection proof",
+    "no hinting; optical spacing is an initial pass",
+    "no variable font",
+    "Windows app evaluation pending; browser and raster checks recorded separately"
+  ]
+}

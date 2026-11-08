@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="j" format="2">
+  <advance width="314"/>
+  <unicode hex="006A"/>
+  <outline>
+    <contour>
+      <point x="135.93006993006992" y="499.3006993006993" type="line"/>
+      <point x="135.93006993006992" y="-17.13286713286709" type="line" smooth="yes"/>
+      <point x="135.93006993006992" y="-73.42657342657344"/>
+      <point x="116.34965034965035" y="-97.90209790209792"/>
+      <point x="69.84615384615384" y="-97.90209790209792" type="curve" smooth="yes"/>
+      <point x="52.713286713286706" y="-97.90209790209792"/>
+      <point x="33.132867132867126" y="-95.45454545454538"/>
+      <point x="16.0" y="-88.1118881118881" type="curve"/>
+      <point x="16.0" y="-186.01398601398603" type="line"/>
+      <point x="40.475524475524466" y="-195.80419580419573"/>
+      <point x="69.84615384615384" y="-200.6993006993007"/>
+      <point x="101.66433566433565" y="-200.6993006993007" type="curve" smooth="yes"/>
+      <point x="209.35664335664336" y="-200.6993006993007"/>
+      <point x="265.65034965034965" y="-144.40559440559434"/>
+      <point x="265.65034965034965" y="-14.685314685314665" type="curve" smooth="yes"/>
+      <point x="265.65034965034965" y="499.3006993006993" type="line"/>
+    </contour>
+    <contour>
+      <point x="135.93006993006992" y="685.3146853146853" type="line"/>
+      <point x="135.93006993006992" y="570.2797202797203" type="line"/>
+      <point x="265.65034965034965" y="570.2797202797203" type="line"/>
+      <point x="265.65034965034965" y="685.3146853146853" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.suginamisans.sourceRole</key>
+      <string>extension-draft</string>
+    </dict>
+  </lib>
+</glyph>

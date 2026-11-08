@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>public.kern2.narrowStem</key>
+    <array>
+      <string>i</string>
+      <string>l</string>
+    </array>
+    <key>public.kern2.roundLower</key>
+    <array>
+      <string>o</string>
+      <string>c</string>
+      <string>e</string>
+      <string>q</string>
+      <string>g</string>
+    </array>
+  </dict>
+</plist>

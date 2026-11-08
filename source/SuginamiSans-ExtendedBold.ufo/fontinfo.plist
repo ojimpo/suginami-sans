@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>ascender</key>
+    <integer>850</integer>
+    <key>capHeight</key>
+    <integer>700</integer>
+    <key>descender</key>
+    <integer>-250</integer>
+    <key>familyName</key>
+    <string>Suginami Sans</string>
+    <key>note</key>
+    <string>Static Extended Bold 0.105: refine a/s apertures and %/@ counters/channels for 12-16px. ASCII complete; ss01 selects Logo y. Unhinted; a/s spacing and vertical metrics retained.</string>
+    <key>openTypeHheaAscender</key>
+    <integer>850</integer>
+    <key>openTypeHheaDescender</key>
+    <integer>-250</integer>
+    <key>openTypeHheaLineGap</key>
+    <integer>0</integer>
+    <key>openTypeOS2Selection</key>
+    <array>
+      <integer>7</integer>
+    </array>
+    <key>openTypeOS2Type</key>
+    <array/>
+    <key>openTypeOS2TypoAscender</key>
+    <integer>850</integer>
+    <key>openTypeOS2TypoDescender</key>
+    <integer>-250</integer>
+    <key>openTypeOS2TypoLineGap</key>
+    <integer>0</integer>
+    <key>openTypeOS2WeightClass</key>
+    <integer>700</integer>
+    <key>openTypeOS2WidthClass</key>
+    <integer>7</integer>
+    <key>openTypeOS2WinAscent</key>
+    <integer>794</integer>
+    <key>openTypeOS2WinDescent</key>
+    <integer>211</integer>
+    <key>postscriptFontName</key>
+    <string>SuginamiSans-ExtendedBold</string>
+    <key>styleMapFamilyName</key>
+    <string>Suginami Sans Extended</string>
+    <key>styleMapStyleName</key>
+    <string>bold</string>
+    <key>styleName</key>
+    <string>Extended Bold</string>
+    <key>unitsPerEm</key>
+    <integer>1000</integer>
+    <key>versionMajor</key>
+    <integer>0</integer>
+    <key>versionMinor</key>
+    <integer>105</integer>
+    <key>xHeight</key>
+    <integer>499</integer>
+  </dict>
+</plist>

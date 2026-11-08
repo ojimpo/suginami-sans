@@ -1,0 +1,26 @@
+# Python environment and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local secrets and editor state
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+
+# Incoming archive, temporary work, intermediate builds
+/incoming/
+/work/
+/build/
+/sites/suginami-sans-demo/
+*.tmp
+*.log
+Thumbs.db
+Desktop.ini
+.DS_Store
