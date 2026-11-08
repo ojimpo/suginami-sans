@@ -10,6 +10,7 @@ python scripts/validate.py
 python scripts/validate_fonts.py
 python scripts/check_reproducibility.py
 python scripts/make_proofs.py
+node scripts/verify_specimen.cjs
 python scripts/package_release.py
 ```
 
@@ -20,7 +21,14 @@ python scripts/package_release.py
 - a/s/%/@×2形式×12〜16px×縦横1/4pxずつの16位置、640件の穴数検査で変化0。
 - 識別文字列・代替y・カーニング例・記号を5サイズ・2形式・通常/反転の160配置でクリッピングなし。反転は同じ字形マスクの前景と背景を交換する方式。
 - 明示したファイルだけを配布ZIPへ収録し、CRCと全メンバーの読み戻しを照合。
+- Microsoft Edge 157.0.4341.42／Playwright 1.62.1で、見出し・リード・187語の3段落を表示。本文16／24／32pxと行間1.3／1.6／1.9の操作を確認。
+- OTF／TTFの通常y・ss01・kernオン／オフの実測幅がHarfBuzzの期待値と0.04px以内で一致。
+- 改行入力、サイズ、未収録警告、HTML文字列の文字としての表示、反転時の本文コントラスト、全設定のリセットを確認。
+- 1440／768／390pxでページ全体の横はみ出しなし。97輪郭の字形タイルを確認。ブラウザエラーとリクエスト失敗は0。
+- 配布ZIPを展開したHTML見本でも同じ7項目の実ブラウザ検証に成功。HTML・CSS・JavaScript・フォントの相対パスと画像リンクを確認。
 
-機械可読記録はFONT_BUILD.json、STATIC_VALIDATION.json、REPRODUCIBILITY.json、RASTER_VALIDATION.json、RELEASE_PACKAGE.jsonです。画像見本はproofs/specimen.png、対話見本はproofs/index.htmlです。
+機械可読記録はFONT_BUILD.json、STATIC_VALIDATION.json、REPRODUCIBILITY.json、RASTER_VALIDATION.json、SPECIMEN_BUILD.json、BROWSER_SPECIMEN_VALIDATION.json、PACKAGE_BROWSER_VALIDATION.json、RELEASE_PACKAGE.jsonです。画像見本はproofs/specimen.png、対話見本はproofs/index.htmlです。見本はscripts/specimen.pyとscripts/specimen/から再生成できます。
 
-検証は指定したサイズ・位置・レンダラーでの結果です。穴数はalpha閾値128の4近傍背景による検査で、あらゆる描画環境を保証しません。ヒンティング、独立した厳密な曲線自己交差判定、WindowsへインストールしたWord/Adobe等での動作、今回のブラウザ対話見本の実ブラウザ操作は未検証です。I/lは同形です。可変版・別スタイルは未設計です。
+ブラウザ検証は任意のNode.js環境へPlaywrightを導入し、Microsoft Edgeを利用します。別のブラウザを使う場合はSPECIMEN_BROWSER_CHANNELを設定します。Pythonのフォントビルド依存には追加しません。配布物を作り直す場合は、対象ファイルと一致するブラウザ検証記録が必要です。
+
+検証は指定したサイズ・位置・レンダラーでの結果です。穴数はalpha閾値128の4近傍背景による検査で、あらゆる描画環境を保証しません。ヒンティング、独立した厳密な曲線自己交差判定、WindowsへインストールしたWord/Adobe等での動作は未検証です。I/lは同形です。可変版・別スタイルは未設計です。

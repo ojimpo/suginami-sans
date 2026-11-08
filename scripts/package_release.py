@@ -7,14 +7,24 @@ def main():
     static = read_json('docs/STATIC_VALIDATION.json')
     raster = read_json('docs/RASTER_VALIDATION.json')
     reproduced = read_json('docs/REPRODUCIBILITY.json')
-    assert static['result'] == raster['result'] == reproduced['result'] == 'PASS'
+    browser = read_json('docs/BROWSER_SPECIMEN_VALIDATION.json')
+    specimen = read_json('docs/SPECIMEN_BUILD.json')
+    assert static['result'] == raster['result'] == reproduced['result'] == browser['result'] == 'PASS'
+    for name, expected in browser['source_files'].items():
+        assert sha256(ROOT / name) == expected, f'Stale browser verification: {name}'
+    for name, expected in specimen['files'].items():
+        assert sha256(ROOT / 'proofs' / name) == expected, f'Stale specimen: {name}'
     files = {f'SuginamiSans-ExtendedBold.{ext}': ROOT / f'fonts/SuginamiSans-ExtendedBold.{ext}' for ext in ['otf', 'ttf']}
     for ext in ['otf', 'ttf']:
         actual = sha256(ROOT / f'fonts/SuginamiSans-ExtendedBold.{ext}')
         assert actual == static['fonts'][ext]['sha256'] == raster['fonts'][ext] == reproduced['fonts'][ext]
     files.update({'README.md': ROOT / 'docs/USAGE.md', 'PROVENANCE.md': ROOT / 'docs/PROVENANCE.md',
-                  'VALIDATION.md': ROOT / 'docs/VALIDATION.md', 'specimen.png': ROOT / 'proofs/specimen.png'})
+                  'VALIDATION.md': ROOT / 'docs/VALIDATION.md', 'RELEASE_NOTES.md': ROOT / 'docs/RELEASE_0105.md',
+                  'specimen.png': ROOT / 'proofs/specimen.png', 'specimen/index.html': ROOT / 'proofs/index.html',
+                  'specimen/specimen.css': ROOT / 'proofs/specimen.css', 'specimen/specimen.js': ROOT / 'proofs/specimen.js'})
     payload = {name: path.read_bytes() for name, path in files.items()}
+    payload['specimen/specimen.css'] = payload['specimen/specimen.css'].replace(b'../fonts/', b'../')
+    payload['specimen/index.html'] = payload['specimen/index.html'].replace(b'href="specimen.png"', b'href="../specimen.png"')
     payload['SHA256SUMS.txt'] = ''.join(hashlib.sha256(data).hexdigest() + '  ' + name + '\n' for name, data in sorted(payload.items())).encode('ascii')
     output = ROOT / 'releases/0.105'
     output.mkdir(parents=True, exist_ok=True)
@@ -33,6 +43,9 @@ def main():
         path = output / f'SuginamiSans-ExtendedBold.{ext}'
         path.write_bytes(files[path.name].read_bytes())
         outputs.append(path)
+    image = output / 'specimen.png'
+    image.write_bytes(files['specimen.png'].read_bytes())
+    outputs.append(image)
     (output / 'SHA256SUMS.txt').write_text(''.join(sha256(path) + '  ' + path.name + '\n' for path in outputs), encoding='ascii', newline='\n')
     write_json('docs/RELEASE_PACKAGE.json', {'result': 'PASS', 'members': sorted(payload),
         'assets': {path.name: sha256(path) for path in [*outputs, output / 'SHA256SUMS.txt']}})

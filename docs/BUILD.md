@@ -23,3 +23,9 @@ python scripts/apply_release_size.py --ufo work/new.ufo --report work/new-releas
 small-size-plan.jsonは%と@、release-size-plan.jsonはa/s/%/@の既存曲線への光学補正を保持します。原本JSON自体の輪郭を補正済みのものへ置き換えません。UFOへの手編集を再生成へ含めたい場合は、対応する計画やソースへ明示的に反映します。
 
 `source/input-checksums.json` はこのリポジトリの基準入力を照合します。入力を意図して編集した場合は再評価した上でハッシュを更新します。特定の過去コミットや外部アートワークは必要ありません。
+
+## 見本の編集と配布
+
+画像見本の生成はscripts/specimen.py、HTML／CSS／JavaScriptと原稿はscripts/specimen/です。原稿は独自の英文187語・3段落で、すべて収録文字を使います。編集後はmake_proofs.pyで画像とHTMLを更新し、任意のNode.js＋PlaywrightとMicrosoft Edgeで `node scripts/verify_specimen.cjs` を実行します。今回の固定確認版はPlaywright 1.62.1です。必要なら `npm install --no-save --package-lock=false playwright@1.62.1` で作業用に導入できます。
+
+package_release.pyは、フォントの静的検証・画像検証・再現性・現在の見本と一致するブラウザ検証記録がすべて成功した場合にだけ配布物を作ります。ZIP内のHTML見本はspecimen/へ収録し、フォントの相対パスを配布配置に合わせます。

@@ -1,0 +1,391 @@
+{
+  "version": "0.105",
+  "font_sha256": "29d6d63dc93626d92b42b613a4c2706c188245a920f4cc8cfe727e376fdf8f60",
+  "raster_dimensions": [
+    1600,
+    2920
+  ],
+  "raster_placements": [
+    {
+      "text": "Suginami Sans",
+      "size_px": 135,
+      "ss01": false,
+      "kern": true,
+      "rect": [
+        72,
+        90,
+        1044,
+        165
+      ]
+    },
+    {
+      "text": "A quieter way",
+      "size_px": 95,
+      "ss01": false,
+      "kern": true,
+      "rect": [
+        72,
+        400,
+        693,
+        121
+      ]
+    },
+    {
+      "text": "through the city",
+      "size_px": 95,
+      "ss01": false,
+      "kern": true,
+      "rect": [
+        72,
+        520,
+        795,
+        121
+      ]
+    },
+    {
+      "text": "There is more to a familiar street than the quickest route from one place to",
+      "size_px": 34,
+      "ss01": false,
+      "kern": true,
+      "rect": [
+        72,
+        670,
+        1320,
+        54
+      ]
+    },
+    {
+      "text": "another.",
+      "size_px": 34,
+      "ss01": false,
+      "kern": true,
+      "rect": [
+        72,
+        724,
+        163,
+        54
+      ]
+    },
+    {
+      "text": "At seven in the morning, the city belongs to people who have somewhere to be and people who are happy",
+      "size_px": 26,
+      "ss01": false,
+      "kern": true,
+      "rect": [
+        72,
+        803,
+        1433,
+        45
+      ]
+    },
+    {
+      "text": "to take their time. A baker lifts the shutters, a cyclist waits beside the crossing, and the first bus turns into",
+      "size_px": 26,
+      "ss01": false,
+      "kern": true,
+      "rect": [
+        72,
+        843,
+        1428,
+        45
+      ]
+    },
+    {
+      "text": "the square. Yesterday's rain has left a little water between the paving stones. In every window, the light is",
+      "size_px": 26,
+      "ss01": false,
+      "kern": true,
+      "rect": [
+        72,
+        883,
+        1425,
+        45
+      ]
+    },
+    {
+      "text": "different.",
+      "size_px": 26,
+      "ss01": false,
+      "kern": true,
+      "rect": [
+        72,
+        923,
+        138,
+        45
+      ]
+    },
+    {
+      "text": "We usually follow the same route without looking closely. Today, take the longer way. Walk past the small",
+      "size_px": 26,
+      "ss01": false,
+      "kern": true,
+      "rect": [
+        72,
+        988,
+        1424,
+        45
+      ]
+    },
+    {
+      "text": "park, turn left at the library, and stop where the road meets the river. You might notice a painted door, a",
+      "size_px": 26,
+      "ss01": false,
+      "kern": true,
+      "rect": [
+        72,
+        1028,
+        1398,
+        45
+      ]
+    },
+    {
+      "text": "row of uneven rooftops, or a tree growing through a gap in the wall. None of these things is new, but",
+      "size_px": 26,
+      "ss01": false,
+      "kern": true,
+      "rect": [
+        72,
+        1068,
+        1350,
+        45
+      ]
+    },
+    {
+      "text": "attention gives them another life.",
+      "size_px": 26,
+      "ss01": false,
+      "kern": true,
+      "rect": [
+        72,
+        1108,
+        458,
+        45
+      ]
+    },
+    {
+      "text": "Good places leave room for this kind of discovery. They offer clear paths without deciding every step, and",
+      "size_px": 26,
+      "ss01": false,
+      "kern": true,
+      "rect": [
+        72,
+        1173,
+        1435,
+        45
+      ]
+    },
+    {
+      "text": "enough space for different rhythms to meet. By the time the shops are open, the quiet has become a",
+      "size_px": 26,
+      "ss01": false,
+      "kern": true,
+      "rect": [
+        72,
+        1213,
+        1360,
+        45
+      ]
+    },
+    {
+      "text": "conversation. Someone is carrying flowers. Someone is finding the way home. The street holds all of them,",
+      "size_px": 26,
+      "ss01": false,
+      "kern": true,
+      "rect": [
+        72,
+        1253,
+        1438,
+        45
+      ]
+    },
+    {
+      "text": "and the day has only just begun.",
+      "size_px": 26,
+      "ss01": false,
+      "kern": true,
+      "rect": [
+        72,
+        1293,
+        450,
+        45
+      ]
+    },
+    {
+      "text": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+      "size_px": 59,
+      "ss01": false,
+      "kern": true,
+      "rect": [
+        72,
+        1475,
+        1113,
+        81
+      ]
+    },
+    {
+      "text": "abcdefghijklmnopqrstuvwxyz",
+      "size_px": 65,
+      "ss01": false,
+      "kern": true,
+      "rect": [
+        72,
+        1570,
+        1022,
+        88
+      ]
+    },
+    {
+      "text": "0123456789",
+      "size_px": 85,
+      "ss01": false,
+      "kern": true,
+      "rect": [
+        72,
+        1675,
+        557,
+        110
+      ]
+    },
+    {
+      "text": "! ? & @ # $ % + = / ( ) [ ] { }",
+      "size_px": 47,
+      "ss01": false,
+      "kern": true,
+      "rect": [
+        72,
+        1790,
+        626,
+        68
+      ]
+    },
+    {
+      "text": "Type freely",
+      "size_px": 60,
+      "ss01": false,
+      "kern": true,
+      "rect": [
+        72,
+        2020,
+        366,
+        82
+      ]
+    },
+    {
+      "text": "Type freely",
+      "size_px": 60,
+      "ss01": true,
+      "kern": true,
+      "rect": [
+        827,
+        2020,
+        365,
+        82
+      ]
+    },
+    {
+      "text": "AVATAR WA To Ta",
+      "size_px": 47,
+      "ss01": false,
+      "kern": true,
+      "rect": [
+        72,
+        2265,
+        444,
+        68
+      ]
+    },
+    {
+      "text": "AVATAR WA To Ta",
+      "size_px": 47,
+      "ss01": false,
+      "kern": false,
+      "rect": [
+        827,
+        2265,
+        467,
+        68
+      ]
+    },
+    {
+      "text": "Il1 O0 rn m vv w",
+      "size_px": 12,
+      "ss01": false,
+      "kern": true,
+      "rect": [
+        210,
+        2470,
+        112,
+        30
+      ]
+    },
+    {
+      "text": "Il1 O0 rn m vv w",
+      "size_px": 16,
+      "ss01": false,
+      "kern": true,
+      "rect": [
+        210,
+        2515,
+        144,
+        34
+      ]
+    },
+    {
+      "text": "Il1 O0 rn m vv w",
+      "size_px": 24,
+      "ss01": false,
+      "kern": true,
+      "rect": [
+        210,
+        2570,
+        208,
+        43
+      ]
+    },
+    {
+      "text": "Il1 O0 rn m vv w",
+      "size_px": 48,
+      "ss01": false,
+      "kern": true,
+      "rect": [
+        210,
+        2635,
+        400,
+        69
+      ]
+    },
+    {
+      "text": "Il1 O0 rn m vv w",
+      "size_px": 96,
+      "ss01": false,
+      "kern": true,
+      "rect": [
+        210,
+        2730,
+        784,
+        122
+      ]
+    }
+  ],
+  "article_words": 187,
+  "browser_widths_100px": {
+    "otf": {
+      "default": 582.6,
+      "alternate": 581.0,
+      "kern_on": 909.2,
+      "kern_off": 959.4
+    },
+    "ttf": {
+      "default": 582.6,
+      "alternate": 581.0,
+      "kern_on": 909.2,
+      "kern_off": 959.4
+    }
+  },
+  "files": {
+    "specimen.png": "19cbda7e9bddc9ccf5a185ef7ce70b5853ae0b9876258f036256a0871640ee74",
+    "index.html": "0593f028660610f0966b52e70cdbe1d81c6a3b243db9c5d535f3a302be42d473",
+    "specimen.css": "ed8baea2aca48f642fda255b707907c6f8b3104f8f3e7b0619bc581d361c55c1",
+    "specimen.js": "083a0dbb70e8a8251c15be8980b74fdc3ad61a0ce731e2a716444b910c9a3476"
+  }
+}

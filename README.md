@@ -4,6 +4,12 @@
 
 ![Suginami Sansの文字見本](proofs/specimen.png)
 
+## ダウンロードと見本
+
+[GitHub Release v0.105](https://github.com/ojimpo/suginami-sans/releases/tag/v0.105) に、OTF／TTF・見本付きZIP・画像見本・SHA-256チェックサムをまとめています。現在はprivateのため、取得にはアクセス権のあるGitHubアカウントが必要です。
+
+ZIPには、見出し・リード・187語の3段落を組んだ画像とHTMLの見本を収録しています。HTMLでは本文16／24／32px、行間1.3／1.6／1.9、自由入力、通常y／代替y、カーニング、OTF／TTF、反転を比較できます。
+
 `fonts/` のOTFまたはTTFを利用できます。両形式は同じ書体です。印字可能ASCII95文字とen/em dash、未符号化の代替yを収録し、全99グリフ・97 Unicodeです。日本語やアクセント付き文字は未収録です。
 
 通常yはU+0079です。スタイルセット1（ss01、フォント内の表示名は「Logo y」）で代替字形へ切り替えます。代替字形にも通常の `y` を入力します。
@@ -31,7 +37,10 @@ python -m venv .venv
 .\.venv\Scripts\python.exe scripts/build_fonts.py
 .\.venv\Scripts\python.exe scripts/validate.py
 .\.venv\Scripts\python.exe scripts/validate_fonts.py
+.\.venv\Scripts\python.exe scripts/check_reproducibility.py
 .\.venv\Scripts\python.exe scripts/make_proofs.py
+# 任意のNode.js + Playwright + Microsoft Edgeでブラウザ確認
+node scripts/verify_specimen.cjs
 .\.venv\Scripts\python.exe scripts/package_release.py
 ```
 

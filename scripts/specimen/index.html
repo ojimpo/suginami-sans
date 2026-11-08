@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <title>Suginami Sans — Extended Bold 見本</title>
+  <link rel="stylesheet" href="specimen.css">
+  <script id="specimen-data" type="application/json">__DATA__</script>
+  <script src="specimen.js" defer></script>
+</head>
+<body>
+  <header class="masthead wrap">
+    <a class="identity" href="#top">SUGINAMI SANS<span>TYPE SPECIMEN / __VERSION__</span></a>
+    <nav aria-label="ページ内"><a href="#reading">文章</a><a href="#try">試す</a><a href="#characters">全字形</a></nav>
+  </header>
+  <main id="top" class="wrap">
+    <section class="intro" aria-labelledby="title">
+      <div class="eyebrow">広いかたち、水平な端部。</div>
+      <h1 id="title" class="face">Suginami Sans</h1>
+      <div class="intro-bottom"><p>まとまった文章の密度から、一文字の輪郭まで。<br>静的Extended Boldの字形と文字組みを試せます。</p><dl class="specs"><div><dt>STYLE</dt><dd>Extended Bold</dd></div><div><dt>VERSION</dt><dd>__VERSION__ / Static</dd></div><div><dt>COVERAGE</dt><dd>99 glyphs / 97 Unicode</dd></div></dl></div>
+    </section>
+
+    <section id="reading" class="section" aria-labelledby="reading-title">
+      <div class="section-heading"><div><span class="eyebrow">01 / A TEXT IN CONTEXT</span><h2 id="reading-title">文章で見る</h2></div><div class="reading-controls"><label for="reading-size">本文 <select id="reading-size"><option value="16">16px</option><option value="24" selected>24px</option><option value="32">32px</option></select></label><label for="leading">行間 <select id="leading"><option value="1.3">1.3</option><option value="1.6" selected>1.6</option><option value="1.9">1.9</option></select></label></div></div>
+      <article class="reading face" lang="en"><h3>__ARTICLE_TITLE__</h3><p class="deck">__ARTICLE_DECK__</p><div id="paragraphs" class="paragraphs">__PARAGRAPHS__</div></article>
+      <p class="hint">見出し・リード・3段落をすべてExtended Boldで組んでいます。本文サイズと行間を変えて、行の流れや文字の密度を比較できます。</p>
+    </section>
+
+    <section id="try" class="section" aria-labelledby="try-title">
+      <div class="section-heading"><div><span class="eyebrow">02 / TYPE SOMETHING</span><h2 id="try-title">自分の文章で試す</h2></div><button id="reset" class="quiet" type="button">リセット</button></div>
+      <div class="workspace">
+        <div class="settings">
+          <label class="field" for="text-input">入力テキスト<textarea id="text-input" rows="6" maxlength="4096" spellcheck="false"></textarea></label>
+          <div class="control-row"><label class="field" for="format">フォント形式<select id="format"><option value="otf">OTF</option><option value="ttf">TTF</option></select></label><label class="field" for="size">文字サイズ <output id="size-label" for="size">32px</output><input id="size" type="range" min="12" max="120" value="32"></label></div>
+          <label class="check"><input id="alternate" type="checkbox">代替y <span>ss01</span></label>
+          <label class="check"><input id="kern" type="checkbox" checked>カーニング</label>
+          <label class="check"><input id="reverse" type="checkbox">白黒反転</label>
+          <p class="hint">印字可能ASCIIとen/em dashを収録。日本語・アクセント付き文字は未収録です。</p>
+        </div>
+        <div class="preview-area"><div class="preview-caption"><span>LIVE PREVIEW</span><span id="font-status" role="status">読込中…</span></div><div id="preview" class="face" aria-label="入力テキストの見本"></div><p id="unsupported" class="warning" role="status" hidden></p><p class="preview-note">改行を含む文章を入力できます。最大4,096文字。</p></div>
+      </div>
+    </section>
+
+    <section id="compare" class="section" aria-labelledby="compare-title">
+      <div class="section-heading"><div><span class="eyebrow">03 / DETAILS SIDE BY SIDE</span><h2 id="compare-title">字形と詰めを見比べる</h2></div></div>
+      <div class="comparison-grid"><article class="comparison"><h3>通常のy <span>U+0079</span></h3><div class="scroll"><span id="compare-default" class="face comparison-text">Type freely</span></div></article><article class="comparison"><h3>代替y <span>ss01</span></h3><div class="scroll"><span id="compare-alternate" class="face comparison-text alternate">Type freely</span></div></article><article class="comparison"><h3>カーニングあり</h3><div class="scroll"><span id="compare-kern-on" class="face comparison-text">AVATAR WA To Ta</span></div></article><article class="comparison"><h3>カーニングなし</h3><div class="scroll"><span id="compare-kern-off" class="face comparison-text unkerned">AVATAR WA To Ta</span></div></article></div>
+      <p class="hint">代替yも入力する文字は通常のyです。ss01を有効にした範囲のyが切り替わります。自由入力の設定から独立した比較です。</p>
+    </section>
+
+    <section id="sizes" class="section" aria-labelledby="sizes-title"><div class="section-heading"><div><span class="eyebrow">04 / SIZE & LEGIBILITY</span><h2 id="sizes-title">サイズと識別性</h2></div></div><p class="hint">12 / 16 / 24 / 48 / 96px。上段は通常y、反転した下段は代替y。Iとlは同形です。</p><div class="size-list">__SIZES__</div></section>
+
+    <section id="characters" class="section" aria-labelledby="characters-title"><div class="section-heading"><div><span class="eyebrow">05 / CHARACTER SET</span><h2 id="characters-title">収録字形</h2></div><span class="hint">97輪郭＋space＋.notdef</span></div>__GLYPHS__<p class="hint">spaceはU+0020。y.altは未符号化で、ss01により切り替えます。</p></section>
+  </main>
+  <footer class="wrap"><div><strong>SUGINAMI SANS</strong><span>Extended Bold / __VERSION__</span></div><p>ヒンティング未実装。インストール後の各アプリでの評価は未完了です。<br>一般向けの配布ライセンスは未設定です。</p><a href="specimen.png">画像見本を見る ↗</a></footer>
+</body>
+</html>
