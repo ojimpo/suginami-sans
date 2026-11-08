@@ -14,6 +14,8 @@
 
 新規ReleaseはOTF／TTF・OFL.txt・見本付きZIP・PNG・SHA256SUMSの6添付です。旧0.105のタグと添付5点は維持し、ReleaseにOFL.txtと追記を追加します。公開後の状態はGITHUB_RELEASE.json、旧作成時の記録はGITHUB_RELEASE_0105.jsonです。
 
+一般公開完了：[v0.106](https://github.com/ojimpo/suginami-sans/releases/tag/v0.106)、対象コミットe65d320b318f69bee0afc58d6e0fabf7f6dfec27。リポジトリはpublic、Releaseはdraft=false／prerelease=false、GitHubのライセンス認識はOFL-1.1です。認証なしのAPIとOFL取得、全添付6点の再ダウンロードでSHA-256一致を確認しました。旧0.105の5添付とタグは不変で、OFL適用の案内とOFL.txtを追加済みです。別の非公開リポジトリの公開範囲は変更していません。
+
 ## 文章見本とReleaseの整備（0.105作成時の記録）
 
 2026-11-08、フォントのバイナリを維持したまま見本を更新。見出し・リードと187語の3段落、本文サイズ・行間の比較、自由入力、通常y／ss01、カーニング、形式切替、反転、未収録警告、リセットを整備しました。生成ソースはscripts/specimen/、画像・HTMLはproofs/です。

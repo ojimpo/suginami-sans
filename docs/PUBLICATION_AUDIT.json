@@ -1,7 +1,7 @@
 {
   "result": "PASS",
   "date_jst": "2026-11-08",
-  "reachable_git_blobs": 187,
+  "reachable_git_blobs": 230,
   "current_files": 187,
   "checks": [
     "brand references absent",
