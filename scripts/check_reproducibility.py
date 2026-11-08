@@ -11,6 +11,7 @@ def main():
         from pathlib import Path
         target = Path(directory)
         shutil.copytree(ROOT / 'scripts', target / 'scripts', ignore=shutil.ignore_patterns('__pycache__'))
+        shutil.copyfile(ROOT / 'OFL.txt', target / 'OFL.txt')
         shutil.copytree(ROOT / 'source', target / 'source', ignore=shutil.ignore_patterns('*.ufo'))
         (target / 'docs').mkdir()
         for name in ['make_font_source.py', 'apply_spacing.py', 'apply_small_size.py',

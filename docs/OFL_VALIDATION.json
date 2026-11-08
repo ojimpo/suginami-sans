@@ -1,0 +1,42 @@
+{
+  "result": "PASS",
+  "version": "0.106",
+  "reference_version": "0.105",
+  "scope": "Version, copyright and license metadata only.",
+  "license_file_sha256": "ba4b3d21372b5211cd5f476e0d9db4ef679f13e7a84ef49c2645293572db5550",
+  "reserved_font_names": [],
+  "fonts": {
+    "otf": {
+      "reference_sha256": "29d6d63dc93626d92b42b613a4c2706c188245a920f4cc8cfe727e376fdf8f60",
+      "font_sha256": "1b4e64750af5d6127eab3eb2b9dca8c89f26c61601f5f5a55ec8ce4822fdd4c5",
+      "glyphs_unchanged": 99,
+      "tables_unchanged": [
+        "hhea",
+        "OS/2",
+        "GSUB",
+        "GPOS",
+        "hmtx",
+        "maxp",
+        "post"
+      ],
+      "copyright": "Copyright (c) 2026, Kouki Ojima (https://github.com/ojimpo)",
+      "license_url": "https://openfontlicense.org"
+    },
+    "ttf": {
+      "reference_sha256": "923582814709e0d835c4edec43ce6a29cac5865eb95bd33dc461ec67cc099277",
+      "font_sha256": "a4a5a9f4ee2ca56f48df648d05b33a554cc1a09bc8a8b25733d0d2dbadb656d8",
+      "glyphs_unchanged": 99,
+      "tables_unchanged": [
+        "hhea",
+        "OS/2",
+        "GSUB",
+        "GPOS",
+        "hmtx",
+        "maxp",
+        "post"
+      ],
+      "copyright": "Copyright (c) 2026, Kouki Ojima (https://github.com/ojimpo)",
+      "license_url": "https://openfontlicense.org"
+    }
+  }
+}

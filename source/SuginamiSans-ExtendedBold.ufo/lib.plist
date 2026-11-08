@@ -5,7 +5,7 @@
 	<key>org.suginamisans.additionalSourceSHA256</key>
 	<string>825c9035265b1dcc423cfabff7376183b3b9bee4faa390709829ce377db706ad</string>
 	<key>org.suginamisans.metricsStatus</key>
-	<string>Static Extended Bold 0.105: refine a/s apertures and %/@ counters/channels for 12-16px. ASCII complete; ss01 selects Logo y. Unhinted; a/s spacing and vertical metrics retained.</string>
+	<string>Static Extended Bold 0.106: SIL Open Font License 1.1. Outlines, advances, kerning and vertical metrics unchanged from 0.105. Printable ASCII; ss01 selects Logo y. Unhinted.</string>
 	<key>org.suginamisans.releaseSizePlanSHA256</key>
 	<string>8489e9dec3c8ba81343c3c68b9da0007682babdc7ff9a5dcb647ff1dc6fa3291</string>
 	<key>org.suginamisans.smallSizePlanVersion</key>

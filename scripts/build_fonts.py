@@ -29,6 +29,10 @@ def kerning_features(kerning, groups):
 
 def main():
     config, info, order, glyphs, features, kerning, groups = read_ufo()
+    license_text = (ROOT / config['license_file']).read_text(encoding='utf-8')
+    assert info.copyright == config['copyright']
+    assert info.openTypeNameLicense == license_text
+    assert info.openTypeNameLicenseURL == config['license_url']
     if kerning and re.search(r'feature\s+kern\s*\{', features):
         raise ValueError('Use either UFO kerning.plist or an explicit kern feature, not both')
     features += '\n' + kerning_features(kerning, groups)
@@ -69,6 +73,7 @@ def main():
                 recording.replay(pen)
                 charstrings[name] = pen.getCharString()
             fb.setupCFF(info.postscriptFontName, {
+                'Notice': info.copyright,
                 'FullName': info.familyName + ' ' + info.styleName,
                 'FamilyName': info.familyName, 'Weight': 'Bold',
                 'version': f'{info.versionMajor}.{info.versionMinor:03d}',
@@ -88,15 +93,18 @@ def main():
                                  lineGap=info.openTypeHheaLineGap)
         version = f'{info.versionMajor}.{info.versionMinor:03d}'
         fb.setupNameTable({
+            'copyright': info.copyright,
+            'licenseDescription': license_text,
+            'licenseInfoURL': info.openTypeNameLicenseURL,
             'familyName': info.styleMapFamilyName, 'styleName': 'Bold',
             'typographicFamily': info.familyName, 'typographicSubfamily': info.styleName,
             'fullName': info.familyName + ' ' + info.styleName,
             'psName': info.postscriptFontName,
             'uniqueFontIdentifier': f'SuginamiSans-{version}-ExtendedBold',
             'version': f'Version {version}' + ('' if config.get('release_status') == 'static' else '; prototype'),
-            'description': ('Static Extended Bold. Printable ASCII; ss01 selects Logo y. Unhinted. Distribution license undecided.'
+            'description': ('Static Extended Bold. Printable ASCII; ss01 selects Logo y. Unhinted. SIL Open Font License 1.1.'
                             if config.get('release_status') == 'static' else
-                            'Static prototype. Metrics and kerning are provisional. Distribution license undecided.'),
+                            'Static prototype. Metrics and kerning are provisional. SIL Open Font License 1.1.'),
         })
         fb.setupOS2(version=4, sTypoAscender=info.ascender, sTypoDescender=info.descender,
                     sTypoLineGap=0, usWinAscent=info.openTypeOS2WinAscent,

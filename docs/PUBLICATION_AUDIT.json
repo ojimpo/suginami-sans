@@ -1,0 +1,14 @@
+{
+  "result": "PASS",
+  "date_jst": "2026-11-08",
+  "reachable_git_blobs": 187,
+  "current_files": 187,
+  "checks": [
+    "brand references absent",
+    "common credential patterns absent",
+    "nested ZIP contents checked",
+    "only clean independent Git history reachable"
+  ],
+  "limits": "Pattern checks supplement the clean-root migration; not a general-purpose secret scanner.",
+  "license_sha256": "ba4b3d21372b5211cd5f476e0d9db4ef679f13e7a84ef49c2645293572db5550"
+}

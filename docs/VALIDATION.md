@@ -8,6 +8,7 @@
 python scripts/build_fonts.py
 python scripts/validate.py
 python scripts/validate_fonts.py
+python scripts/compare_font_versions.py
 python scripts/check_reproducibility.py
 python scripts/make_proofs.py
 node scripts/verify_specimen.cjs
@@ -26,9 +27,13 @@ python scripts/package_release.py
 - 改行入力、サイズ、未収録警告、HTML文字列の文字としての表示、反転時の本文コントラスト、全設定のリセットを確認。
 - 1440／768／390pxでページ全体の横はみ出しなし。97輪郭の字形タイルを確認。ブラウザエラーとリクエスト失敗は0。
 - 配布ZIPを展開したHTML見本でも同じ7項目の実ブラウザ検証に成功。HTML・CSS・JavaScript・フォントの相対パスと画像リンクを確認。
+- OFL公開版0.106では、UFOと全nameレコードのcopyright／OFL全文／URL、版0.106を検証。予約フォント名はなし。
+- OTF／TTFの全99字形の輪郭命令・字幅・Unicode、hhea/OS/2/GSUB/GPOS/hmtx/maxp/postが0.105と一致。版と著作権・ライセンスのメタデータ以外に変更なし。
 
 機械可読記録はFONT_BUILD.json、STATIC_VALIDATION.json、REPRODUCIBILITY.json、RASTER_VALIDATION.json、SPECIMEN_BUILD.json、BROWSER_SPECIMEN_VALIDATION.json、PACKAGE_BROWSER_VALIDATION.json、RELEASE_PACKAGE.jsonです。画像見本はproofs/specimen.png、対話見本はproofs/index.htmlです。見本はscripts/specimen.pyとscripts/specimen/から再生成できます。
 
 ブラウザ検証は任意のNode.js環境へPlaywrightを導入し、Microsoft Edgeを利用します。別のブラウザを使う場合はSPECIMEN_BROWSER_CHANNELを設定します。Pythonのフォントビルド依存には追加しません。配布物を作り直す場合は、対象ファイルと一致するブラウザ検証記録が必要です。
 
 検証は指定したサイズ・位置・レンダラーでの結果です。穴数はalpha閾値128の4近傍背景による検査で、あらゆる描画環境を保証しません。ヒンティング、独立した厳密な曲線自己交差判定、WindowsへインストールしたWord/Adobe等での動作は未検証です。I/lは同形です。可変版・別スタイルは未設計です。
+
+公開時のライセンス・旧版比較はOFL_VALIDATION.json、公開範囲・Release添付の認証なし取得はGITHUB_RELEASE.jsonに記録します。過去の「バイト不変」は0.105の見本整備時の結果で、0.106のバイナリにはOFLの全文等が追加されています。

@@ -86,10 +86,10 @@
   "errors": [],
   "failed_requests": [],
   "source_files": {
-    "proofs/index.html": "0593f028660610f0966b52e70cdbe1d81c6a3b243db9c5d535f3a302be42d473",
+    "proofs/index.html": "238c354bb6c86077b281c7b116d95450c5bffe0906240b48639049ea26ecc1db",
     "proofs/specimen.css": "ed8baea2aca48f642fda255b707907c6f8b3104f8f3e7b0619bc581d361c55c1",
     "proofs/specimen.js": "083a0dbb70e8a8251c15be8980b74fdc3ad61a0ce731e2a716444b910c9a3476",
-    "fonts/SuginamiSans-ExtendedBold.otf": "29d6d63dc93626d92b42b613a4c2706c188245a920f4cc8cfe727e376fdf8f60",
-    "fonts/SuginamiSans-ExtendedBold.ttf": "923582814709e0d835c4edec43ce6a29cac5865eb95bd33dc461ec67cc099277"
+    "fonts/SuginamiSans-ExtendedBold.otf": "1b4e64750af5d6127eab3eb2b9dca8c89f26c61601f5f5a55ec8ce4822fdd4c5",
+    "fonts/SuginamiSans-ExtendedBold.ttf": "a4a5a9f4ee2ca56f48df648d05b33a554cc1a09bc8a8b25733d0d2dbadb656d8"
   }
 }

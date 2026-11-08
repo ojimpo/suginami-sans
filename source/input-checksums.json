@@ -4,5 +4,6 @@
   "source/spacing-plan.json": "1944c654d34f0980b025f1d56ddb2d0dae5f571f6a03da952a709f18e644fb44",
   "source/small-size-plan.json": "58a670bf74b96b6d08d2fc86b1f557ffa60cc34914c96b4dd845f855c50f376c",
   "source/release-size-plan.json": "8489e9dec3c8ba81343c3c68b9da0007682babdc7ff9a5dcb647ff1dc6fa3291",
-  "source/expected-counters.json": "7d357ad3a173df5182edd9c05eb9766c1b332172211efafd98ad4be941c43372"
+  "source/expected-counters.json": "7d357ad3a173df5182edd9c05eb9766c1b332172211efafd98ad4be941c43372",
+  "OFL.txt": "ba4b3d21372b5211cd5f476e0d9db4ef679f13e7a84ef49c2645293572db5550"
 }

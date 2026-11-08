@@ -2,6 +2,8 @@
 
 通常の編集原本は `source/SuginamiSans-ExtendedBold.ufo/` です。`scripts/build_fonts.py` はUFOを読み、同じ入力から同じOTF/TTFを生成します。通常のビルドで以下の再生成は不要です。
 
+OFL.txtとsource/font-config.jsonが著作権・ライセンス・版の入力です。メタデータを更新した場合は `python scripts/update_font_metadata.py` でUFOへ反映し、続けてビルドします。輪郭ファイルは変更しません。初期JSONからの新規UFO生成も同じライセンス情報を読みます。
+
 ## 初期JSONから別のUFOを作る
 
 ルートで実行します。既存UFOへの上書きは拒否します。次のnew.ufoは存在しないパスを選びます。
@@ -28,4 +30,4 @@ small-size-plan.jsonは%と@、release-size-plan.jsonはa/s/%/@の既存曲線�
 
 画像見本の生成はscripts/specimen.py、HTML／CSS／JavaScriptと原稿はscripts/specimen/です。原稿は独自の英文187語・3段落で、すべて収録文字を使います。編集後はmake_proofs.pyで画像とHTMLを更新し、任意のNode.js＋PlaywrightとMicrosoft Edgeで `node scripts/verify_specimen.cjs` を実行します。今回の固定確認版はPlaywright 1.62.1です。必要なら `npm install --no-save --package-lock=false playwright@1.62.1` で作業用に導入できます。
 
-package_release.pyは、フォントの静的検証・画像検証・再現性・現在の見本と一致するブラウザ検証記録がすべて成功した場合にだけ配布物を作ります。ZIP内のHTML見本はspecimen/へ収録し、フォントの相対パスを配布配置に合わせます。
+package_release.pyは、フォントの静的検証・画像検証・再現性・OFLメタデータ検証・現在の見本と一致するブラウザ検証記録がすべて成功した場合にだけ配布物を作ります。ZIP内のHTML見本はspecimen/へ収録し、フォントの相対パスを配布配置に合わせます。出力先とZIP名はfont-configの版から決まり、OFL.txtをZIP内と単体の両方へ含めます。

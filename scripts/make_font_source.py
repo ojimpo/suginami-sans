@@ -81,6 +81,9 @@ def main():
     if top > config['ascender'] or bottom < config['descender']:
         raise ValueError('Configured line metrics clip outline extents')
     info = SimpleNamespace(
+        copyright=config['copyright'],
+        openTypeNameLicense=(ROOT / config['license_file']).read_text(encoding='utf-8'),
+        openTypeNameLicenseURL=config['license_url'],
         familyName=config['family'], styleName=config['style'],
         styleMapFamilyName='Suginami Sans Extended', styleMapStyleName='bold',
         unitsPerEm=config['units_per_em'], capHeight=config['cap_height'],

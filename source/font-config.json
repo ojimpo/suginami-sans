@@ -2,7 +2,12 @@
   "family": "Suginami Sans",
   "style": "Extended Bold",
   "version_major": 0,
-  "version_minor": 105,
+  "version_minor": 106,
+  "copyright": "Copyright (c) 2026, Kouki Ojima (https://github.com/ojimpo)",
+  "license_file": "OFL.txt",
+  "license_id": "OFL-1.1",
+  "license_url": "https://openfontlicense.org",
+  "reserved_font_names": [],
   "release_status": "static",
   "units_per_em": 1000,
   "cap_height": 700,
@@ -17,7 +22,7 @@
   "design_scale_denominator": 286,
   "cu2qu_max_error": 0.35,
   "timestamp_utc": "2026-10-25T00:00:00Z",
-  "metrics_status": "Static Extended Bold 0.105: refine a/s apertures and %/@ counters/channels for 12-16px. ASCII complete; ss01 selects Logo y. Unhinted; a/s spacing and vertical metrics retained.",
+  "metrics_status": "Static Extended Bold 0.106: SIL Open Font License 1.1. Outlines, advances, kerning and vertical metrics unchanged from 0.105. Printable ASCII; ss01 selects Logo y. Unhinted.",
   "ufo_path": "source/SuginamiSans-ExtendedBold.ufo",
   "output_stem": "fonts/SuginamiSans-ExtendedBold"
 }

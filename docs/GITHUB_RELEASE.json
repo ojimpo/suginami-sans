@@ -1,44 +1,14 @@
 {
-  "date_jst": "2026-11-08",
-  "repository": "https://github.com/ojimpo/suginami-sans",
-  "private": true,
-  "release_url": "https://github.com/ojimpo/suginami-sans/releases/tag/v0.105",
-  "release_id": 438106022,
-  "tag": "v0.105",
-  "target_commit": "ce56bf21f3e506dd8e5e08765b8a78940d4d15f5",
-  "draft": false,
-  "prerelease": false,
-  "assets": {
-    "SHA256SUMS.txt": {
-      "bytes": 373,
-      "sha256": "de2e99fc33528facea730923f824ee98a1768d9266bf5f493bcd868537d8376b"
-    },
-    "specimen.png": {
-      "bytes": 495831,
-      "sha256": "19cbda7e9bddc9ccf5a185ef7ce70b5853ae0b9876258f036256a0871640ee74"
-    },
-    "SuginamiSans-ExtendedBold-0.105.zip": {
-      "bytes": 502795,
-      "sha256": "acf06739306c8397b3ebf6704967b5817842075b3d11b9e4c5f1181a41746506"
-    },
-    "SuginamiSans-ExtendedBold.otf": {
-      "bytes": 20884,
-      "sha256": "29d6d63dc93626d92b42b613a4c2706c188245a920f4cc8cfe727e376fdf8f60"
-    },
-    "SuginamiSans-ExtendedBold.ttf": {
-      "bytes": 11416,
-      "sha256": "923582814709e0d835c4edec43ce6a29cac5865eb95bd33dc461ec67cc099277"
-    }
+  "tag": "v0.106",
+  "state": "prepared and locally verified; publication pending",
+  "license": "OFL-1.1",
+  "expected_assets": {
+    "SuginamiSans-ExtendedBold-0.106.zip": "6af32511640696dca2ec8bef976d9b0f45c6866e3395adfe677a3b147d686140",
+    "SuginamiSans-ExtendedBold.otf": "1b4e64750af5d6127eab3eb2b9dca8c89f26c61601f5f5a55ec8ce4822fdd4c5",
+    "SuginamiSans-ExtendedBold.ttf": "a4a5a9f4ee2ca56f48df648d05b33a554cc1a09bc8a8b25733d0d2dbadb656d8",
+    "specimen.png": "248fcee5e833b1b6a31eca44cce0b7ff7ee84fae0717181439826e69f972e108",
+    "OFL.txt": "ba4b3d21372b5211cd5f476e0d9db4ef679f13e7a84ef49c2645293572db5550",
+    "SHA256SUMS.txt": "3bf413331e96743af1abb45fc3866f82961f92ab0b9cf7d7769eb2e2e17f4d7c"
   },
-  "download_sha256_matches": true,
-  "font_binaries_unchanged": true,
-  "topics": [
-    "font",
-    "fonttools",
-    "opentype",
-    "truetype",
-    "typeface",
-    "typography"
-  ],
-  "description": "Suginami Sans — standalone static Extended Bold typeface, editable sources, reproducible builds and specimens"
+  "previous_release_record": "GITHUB_RELEASE_0105.json"
 }

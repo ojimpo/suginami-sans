@@ -52,6 +52,10 @@ def check_path(path, clockwise):
 
 def main():
     config, info, order, glyphs, _, kerning, _ = read_ufo()
+    license_text = (ROOT / config['license_file']).read_text(encoding='utf-8')
+    assert info.copyright == config['copyright']
+    assert info.openTypeNameLicense == license_text
+    assert info.openTypeNameLicenseURL == config['license_url']
     source = load_source()['glyphs']
     expected_cmap = {g['unicode']: name for name, g in source.items() if g['unicode'] is not None}
     expected_order = {'.notdef', *source}
@@ -83,6 +87,12 @@ def main():
         assert font.getGlyphOrder() == order
         assert font['name'].getDebugName(16) == 'Suginami Sans'
         assert font['name'].getDebugName(17) == 'Extended Bold'
+        for record in font['name'].names:
+            if record.nameID in {0, 13, 14}:
+                assert record.toUnicode() == {0: config['copyright'], 13: license_text, 14: config['license_url']}[record.nameID]
+        assert {0, 13, 14} <= {record.nameID for record in font['name'].names}
+        assert 'undecided' not in font['name'].getDebugName(10).lower()
+        assert abs(font['head'].fontRevision - float(f'{config["version_major"]}.{config["version_minor"]:03d}')) < .00002
         assert font['OS/2'].usWeightClass == 700 and font['OS/2'].usWidthClass == 7
         assert font['OS/2'].fsSelection & (1 << 7)
         assert 'fvar' not in font
@@ -129,7 +139,8 @@ def main():
         'passed': ['UFO v3 validation', 'all binary table round-trips', 'Unicode exact coverage',
                    'HarfBuzz default y and ss01', 'closed finite outlines',
                    'nonzero/evenodd area equivalence', 'outer contour direction',
-                   'signed ink area after simplification', 'no metric clipping', 'input checksums match'],
+                   'signed ink area after simplification', 'no metric clipping', 'input checksums match',
+                   'OFL copyright, full license text and license URL in UFO and both binaries'],
         'limits': ['not an independent exact curve self-intersection proof',
                    'no hinting; optical spacing is an initial pass', 'no variable font',
                    'Windows app evaluation pending; browser and raster checks recorded separately'],

@@ -1,12 +1,12 @@
 # Suginami Sans
 
-横に広い字形、広い内側の空間、太い縦線と水平な端部を持つ独自書体です。現在のスタイルは静的 **Extended Bold 0.105** です。
+横に広い字形、広い内側の空間、太い縦線と水平な端部を持つ独自書体です。現在のスタイルは静的 **Extended Bold 0.106** です。
 
 ![Suginami Sansの文字見本](proofs/specimen.png)
 
 ## ダウンロードと見本
 
-[GitHub Release v0.105](https://github.com/ojimpo/suginami-sans/releases/tag/v0.105) に、OTF／TTF・見本付きZIP・画像見本・SHA-256チェックサムをまとめています。現在はprivateのため、取得にはアクセス権のあるGitHubアカウントが必要です。
+[GitHub Release v0.106](https://github.com/ojimpo/suginami-sans/releases/tag/v0.106) に、OTF／TTF・OFL.txt・見本付きZIP・画像見本・SHA-256チェックサムをまとめています。リポジトリとReleaseは一般公開し、サインインなしでダウンロードできます。
 
 ZIPには、見出し・リード・187語の3段落を組んだ画像とHTMLの見本を収録しています。HTMLでは本文16／24／32px、行間1.3／1.6／1.9、自由入力、通常y／代替y、カーニング、OTF／TTF、反転を比較できます。
 
@@ -25,7 +25,7 @@ ZIPには、見出し・リード・187語の3段落を組んだ画像とHTMLの
 .alternate-y { font-feature-settings: "ss01" 1; }
 ```
 
-利用方法は [docs/USAGE.md](docs/USAGE.md)、制作経緯は [docs/PROVENANCE.md](docs/PROVENANCE.md) を参照してください。**一般向けの配布ライセンスと公開は未決定です。** このリポジトリの準備は一般公開・再配布の許諾を意味しません。
+利用方法は [docs/USAGE.md](docs/USAGE.md)、制作経緯は [docs/PROVENANCE.md](docs/PROVENANCE.md) を参照してください。**SIL Open Font License 1.1（OFL-1.1）** で配布します。商用利用・Web組み込み・改変・再配布が可能です。フォントの再配布には著作権表示とOFLを維持してください。予約フォント名は指定していません。[OFL全文](OFL.txt)と[ライセンスの説明](docs/LICENSING.md)を参照してください。
 
 ## ビルドと検証
 

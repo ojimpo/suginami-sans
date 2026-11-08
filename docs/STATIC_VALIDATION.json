@@ -603,12 +603,13 @@
     "source/spacing-plan.json": "1944c654d34f0980b025f1d56ddb2d0dae5f571f6a03da952a709f18e644fb44",
     "source/small-size-plan.json": "58a670bf74b96b6d08d2fc86b1f557ffa60cc34914c96b4dd845f855c50f376c",
     "source/release-size-plan.json": "8489e9dec3c8ba81343c3c68b9da0007682babdc7ff9a5dcb647ff1dc6fa3291",
-    "source/expected-counters.json": "7d357ad3a173df5182edd9c05eb9766c1b332172211efafd98ad4be941c43372"
+    "source/expected-counters.json": "7d357ad3a173df5182edd9c05eb9766c1b332172211efafd98ad4be941c43372",
+    "OFL.txt": "ba4b3d21372b5211cd5f476e0d9db4ef679f13e7a84ef49c2645293572db5550"
   },
   "fonts": {
     "otf": {
-      "sha256": "29d6d63dc93626d92b42b613a4c2706c188245a920f4cc8cfe727e376fdf8f60",
-      "bytes": 20884,
+      "sha256": "1b4e64750af5d6127eab3eb2b9dca8c89f26c61601f5f5a55ec8ce4822fdd4c5",
+      "bytes": 34320,
       "glyph_count": 99,
       "cmap_count": 97,
       "default_y_gid": 25,
@@ -1229,8 +1230,8 @@
       }
     },
     "ttf": {
-      "sha256": "923582814709e0d835c4edec43ce6a29cac5865eb95bd33dc461ec67cc099277",
-      "bytes": 11416,
+      "sha256": "a4a5a9f4ee2ca56f48df648d05b33a554cc1a09bc8a8b25733d0d2dbadb656d8",
+      "bytes": 24788,
       "glyph_count": 99,
       "cmap_count": 97,
       "default_y_gid": 25,
@@ -1864,7 +1865,8 @@
     "outer contour direction",
     "signed ink area after simplification",
     "no metric clipping",
-    "input checksums match"
+    "input checksums match",
+    "OFL copyright, full license text and license URL in UFO and both binaries"
   ],
   "limits": [
     "not an independent exact curve self-intersection proof",

@@ -89,6 +89,7 @@ def make_specimen(config, source):
     for size, y in [(12, 2470), (16, 2515), (24, 2570), (48, 2635), (96, 2730)]:
         label(f'{size:02d} PX', 80, y + 5, small=True)
         text('Il1 O0 rn m vv w', 210, y, size, width=1310)
+    label('SIL OPEN FONT LICENSE 1.1 / Copyright (c) 2026, Kouki Ojima', 80, 2878, small=True)
     image.save(output / 'specimen.png')
 
     cmap = {g['unicode']: name for name, g in source.items() if g['unicode'] is not None}
